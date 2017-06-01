@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:fighting
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 50
+attack: 120
+defense: 53
+special_attack: 87
+special_defense: 87
+speed: 35
+#MOVELIST#
+0 Double Kick
+0 Meditate
+33 Rolling Kick
+38 Jump Kick
+43 Focus Energy
+48 Hi Jump Kick
+53 Mega Kick

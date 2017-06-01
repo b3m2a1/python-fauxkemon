@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water
+height:
+weight:
+evolution:
+catch_rate: 190
+#BASESTATS#
+HP: 65
+attack: 45
+defense: 55
+special_attack: 45
+special_defense: 45
+speed: 70
+#MOVELIST#
+0 Headbutt
+30 Growl
+35 Aurora Beam
+40 Rest
+45 Take Down
+50 Ice Beam

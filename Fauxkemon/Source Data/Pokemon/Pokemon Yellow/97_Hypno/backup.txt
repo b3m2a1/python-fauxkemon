@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:psychic
+height:
+weight:
+evolution:
+catch_rate: 75
+#BASESTATS#
+HP: 85
+attack: 73
+defense: 70
+special_attack: 67
+special_defense: 67
+speed: 115
+#MOVELIST#
+0 Pound
+0 Hypnosis
+0 Disable
+0 Confusion
+24 Headbutt
+33 Poison Gas
+37 Psychic
+43 Meditate

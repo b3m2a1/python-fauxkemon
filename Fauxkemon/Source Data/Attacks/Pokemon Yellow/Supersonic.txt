@@ -1,0 +1,11 @@
+#MOVE: Supersonic#
+type: normal
+mode: status
+attack: —
+effect: confuse
+hit_rate: 0.55
+hits:1
+turns:1
+priority: 1
+pp: 20
+

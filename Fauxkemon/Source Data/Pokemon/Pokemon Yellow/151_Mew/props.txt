@@ -1,0 +1,19 @@
+#PROPERTIES (height in m, weight in kg)#
+type:psychic
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 100
+attack: 100
+defense: 100
+special_attack: 100
+special_defense: 100
+speed: 100
+#MOVELIST#
+0 Pound
+10 Transform
+20 Mega Punch
+30 Metronome
+40 Psychic

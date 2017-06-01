@@ -1,0 +1,6 @@
+#MAX REVIVE#
+buy:  None
+sell:  2000
+type: key
+uses: -
+map:  Recovers 1 KO'ed Pokemon to full HP.

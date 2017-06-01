@@ -1,0 +1,2 @@
+tiletype: rockywall_f
+spaces: 0

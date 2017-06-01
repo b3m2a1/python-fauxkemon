@@ -1,0 +1,6 @@
+#TOWN MAP#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Shows your position on the Pokemon's World Map.

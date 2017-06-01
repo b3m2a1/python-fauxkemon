@@ -1,0 +1,2 @@
+tiletype: pokecentercounterwall
+spaces: 1

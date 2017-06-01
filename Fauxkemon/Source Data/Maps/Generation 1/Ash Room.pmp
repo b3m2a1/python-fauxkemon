@@ -1,0 +1,18 @@
+9x9{(200, 235)|(150, 200)
+default_
+#TILES#
+[0, 0, 0].Borders/BlackBorder[0,0]|[0, 0, 0].Borders/BlackBorder[0,1]|[0, 0, 0].Borders/BlackBorder[0,2]|[0, 0, 0].Borders/BlackBorder[0,3]|[0, 0, 0].Borders/BlackBorder[0,4]|[0, 0, 0].Borders/BlackBorder[0,5]|[0, 0, 0].Borders/BlackBorder[0,6]|[0, 0, 0].Borders/BlackBorder[0,7]|[0, 0, 0].Borders/BlackBorder[0,8]
+[0, 0, 0].Borders/BlackBorder[1,0]|[0, 0, 0].Houses/HomeComputer_Top[1,1]|[0, 0, 0].Houses/WallTable_LeftTop[1,2]|[0, 0, 0].Houses/WallTable_RightTop[1,3]|[0, 0, 0].Houses/HomeWall[1,4]|[0, 0, 0].Houses/HomeShutterWindow[1,5]|[0, 0, 0].Houses/HomeWall[1,6]|[0, 0, 0].Houses/HomeShutterWindow[1,7]|[0, 0, 0].Borders/BlackBorder[1,8]
+[0, 0, 0].Borders/BlackBorder[2,0]|[0, 0, 0].Houses/HomeComputer_Bottom[2,1]|[0, 0, 0].Houses/BlockingTable_LeftBottom[2,2]|[0, 0, 0].Houses/BlockingTable_RightBottom[2,3]|[0, 0, 0].Houses/House Floor[2,4]|[0, 0, 0].Houses/House Floor[2,5]|[0, 0, 0].Houses/House Floor[2,6]|[0, 0, 0].Houses/Stairs_Down[2,7](enter*1.0*exit_map['downstairs'])|[0, 0, 0].Borders/BlackBorder[2,8]
+[0, 0, 0].Borders/BlackBorder[3,0]|[0, 0, 0].Houses/House Floor[3,1]|[0, 0, 0].Houses/House Floor[3,2]|[0, 0, 0].Houses/House Floor[3,3]|[0, 0, 0].Houses/House Floor[3,4]|[0, 0, 0].Houses/House Floor[3,5]|[0, 0, 0].Houses/House Floor[3,6]|[0, 0, 0].Houses/House Floor[3,7]|[0, 0, 0].Borders/BlackBorder[3,8]
+[0, 0, 0].Borders/BlackBorder[4,0]|[0, 0, 0].Houses/House Floor[4,1]|[0, 0, 0].Houses/House Floor[4,2]|[0, 0, 0].Houses/House Floor[4,3]|[0, 0, 0].Houses/TV[4,4]|[0, 0, 0].Houses/House Floor[4,5]|[0, 0, 0].Houses/House Floor[4,6]|[0, 0, 0].Houses/House Floor[4,7]|[0, 0, 0].Borders/BlackBorder[4,8]
+[0, 0, 0].Borders/BlackBorder[5,0]|[0, 0, 0].Houses/House Floor[5,1]|[0, 0, 0].Houses/House Floor[5,2]|[0, 0, 0].Houses/House Floor[5,3]|[0, 0, 0].Houses/SNES[5,4]|[0, 0, 0].Houses/House Floor[5,5]|[0, 0, 0].Houses/House Floor[5,6]|[0, 0, 0].Houses/House Floor[5,7]|[0, 0, 0].Borders/BlackBorder[5,8]
+[0, 0, 0].Borders/BlackBorder[6,0]|[0, 0, 0].Houses/Bed_Top[6,1]|[0, 0, 0].Houses/House Floor[6,2]|[0, 0, 0].Houses/House Floor[6,3]|[0, 0, 0].Houses/House Floor[6,4]|[0, 0, 0].Houses/House Floor[6,5]|[0, 0, 0].Interior/Tree_T[6,6]|[0, 0, 0].Houses/House Floor[6,7]|[0, 0, 0].Borders/BlackBorder[6,8]
+[0, 0, 0].Borders/BlackBorder[7,0]|[0, 0, 0].Houses/Bed_Bottom[7,1]|[0, 0, 0].Houses/House Floor[7,2]|[0, 0, 0].Houses/House Floor[7,3]|[0, 0, 0].Houses/House Floor[7,4]|[0, 0, 0].Houses/House Floor[7,5]|[0, 0, 0].Interior/Tree_B[7,6]|[0, 0, 0].Houses/House Floor[7,7]|[0, 0, 0].Borders/BlackBorder[7,8]
+[0, 0, 0].Borders/BlackBorder[8,0]|[0, 0, 0].Borders/BlackBorder[8,1]|[0, 0, 0].Borders/BlackBorder[8,2]|[0, 0, 0].Borders/BlackBorder[8,3]|[0, 0, 0].Borders/BlackBorder[8,4]|[0, 0, 0].Borders/BlackBorder[8,5]|[0, 0, 0].Borders/BlackBorder[8,6]|[0, 0, 0].Borders/BlackBorder[8,7]|[0, 0, 0].Borders/BlackBorder[8,8]
+#CHARACTERS#
+Main@3x2+0x0.75{nickname:|trainer:|orientation:back|events:|inventory:[]}
+#EXITS#
+downstairs->Ash's House.stairs
+#ENTRANCES#
+stairs->[2, 7]

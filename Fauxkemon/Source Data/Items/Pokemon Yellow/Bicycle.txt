@@ -1,0 +1,6 @@
+#BICYCLE#
+buy:  Voucher
+sell:  None
+type: key
+uses: -
+map:  Allows you to ride a bike, hence moving at double speed.

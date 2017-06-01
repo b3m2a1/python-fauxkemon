@@ -1,0 +1,4 @@
+charname:mom
+speed:1
+size:1
+a_button:(face,character_message)

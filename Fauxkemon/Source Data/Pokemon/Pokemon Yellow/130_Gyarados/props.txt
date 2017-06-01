@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water,flying
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 95
+attack: 125
+defense: 79
+special_attack: 81
+special_defense: 81
+speed: 100
+#MOVELIST#
+0 Tackle
+20 Bite
+25 Dragon Rage
+32 Leer
+41 Hydro Pump
+52 Hyper Beam

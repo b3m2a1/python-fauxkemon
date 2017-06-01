@@ -1,0 +1,15 @@
+#PROPERTIES (height in m, weight in kg)#
+type:bug
+height:
+weight:
+evolution:
+catch_rate: 120
+#BASESTATS#
+HP: 50
+attack: 20
+defense: 55
+special_attack: 30
+special_defense: 30
+speed: 25
+#MOVELIST#
+0 Harden

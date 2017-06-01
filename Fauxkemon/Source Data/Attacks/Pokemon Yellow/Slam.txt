@@ -1,0 +1,12 @@
+#MOVE: Slam#
+type: normal
+mode: physical
+attack: 80
+effect: critical[.25]
+hit_rate: 0.75
+hits:1
+turns:1
+priority: 1
+pp: 20
+
+

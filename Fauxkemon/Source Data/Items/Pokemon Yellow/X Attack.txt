@@ -1,0 +1,7 @@
+#X ATTACK#
+buy:  500
+sell:  250
+type: basic
+battle:  Temporarily raise Attack in battle.
+uses: 1
+map:  Temporarily raise Attack in battle.

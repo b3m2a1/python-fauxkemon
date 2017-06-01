@@ -1,0 +1,2 @@
+tiletype: pokemachinepc_left
+spaces: 1

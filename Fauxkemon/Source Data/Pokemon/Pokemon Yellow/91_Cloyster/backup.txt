@@ -1,0 +1,19 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water,ice
+height:
+weight:
+evolution:
+catch_rate: 60
+#BASESTATS#
+HP: 50
+attack: 95
+defense: 180
+special_attack: 70
+special_defense: 70
+speed: 85
+#MOVELIST#
+0 Withdraw
+0 Supersonic
+0 Clamp
+0 Aurora Beam
+50 Spike Cannon

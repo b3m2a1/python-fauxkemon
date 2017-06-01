@@ -1,0 +1,392 @@
+ANTIDOTE                                                 
+Cost: $100                                            
+Sell: $50                                             
+Where: Various.  
+Affect: Cures poison.                                 
+
+AWAKENING                                             
+Cost: $250                                            
+Sell: $125                                            
+Where: Various.
+Affect: Cures sleep.                                  
+
+BICYCLE                                               
+Cost: Voucher                                          
+Sell: None                                         
+Where: Cerulean City Bike Shop 
+Affect: Allows you to ride a bike, hence moving at double speed.           
+
+BIKE VOUCHER                                          
+Cost: None                                            
+Sell: None                                            
+Where: Vermilion Pokemon Fan Club. 
+Affect: Redeem at Cerulean Bike Shop for free bike.
+
+BURN HEAL                                             
+Cost: $250                                            
+Sell: $125                                            
+Where: various. 
+Affect: Cures burn.                                   
+
+CALCIUM        
+Cost: $9800 
+Sell: $4900 
+Where: Buy in Celadon Department Store on the 5F.
+Affect: Boost Special stat
+
+CARBOS      
+Cost: $9800 
+Sell: $4900 
+Where: Buy in Celadon Department Store on the 5F. 
+Affect: Boost Speed stat
+
+CARD KEY       
+Cost: None  
+Sell: None  
+Where: Find in Silph Company Building on the 5F. 
+Affect: Unlocks doors at the Silph Co. Building.
+
+COIN CASE      
+Cost: None   
+Sell: None  
+Where: Given to you in the Celadon Restaurant. 
+Affect: Holds up to 9,999 coins in the Celadon Casino Coins.
+
+DIRECT HIT       
+Cost: $650  
+Sell: $375 
+Where: Buy in Celadon Department Store on the 5F 
+floor. 
+Affect: Raises one Pokemon's odds of getting a critical hit.(1 Battle)
+
+DOME FOSSIL    
+Cost: None  
+Sell: None  
+Where: Near the end of Mt. Moon. 
+Affect: Can turn into a Kabuto, at the Cinnibar Island Lab.
+
+ELIXER         
+Cost: None  
+Sell: None  
+Where: Various 
+Affect: Restores 10PP (all moves)
+
+ESCAPE ROPE    
+Cost: $550  
+Sell: $275  
+Where: various 
+Affect: Teleport you to last visited Pokemon Center.
+
+ETHER          
+Cost: None   
+Sell: None  
+Where: Various 
+Affect: Restores 10PP (one moves)
+
+EXP. ALL 
+Cost: None  
+Sell: None   
+Where: Given from Oak's aide on Route 15 
+Affect: Splits EXP received to between all Pokemon in party.
+
+FIRE STONE     
+Cost: $2100 
+Sell: $1050 
+Where: Buy in Celadon Department Store on 4F. 
+Affect: Evolve Growlithe, Vulpix, and Eevee. 
+
+FRESH WATER    
+Cost: $200  
+Sell: $100  
+Where: Buy Celadon Department Store Roof.(From Vendor) 
+Affect: Recover 50 HP for 1 Pokemon. 
+
+FULL HEAL      
+Cost: $600  
+Sell: $300  
+Where: various 
+Affect: Cures all condition for 1 Pokemon.
+
+FULL RESTORE   
+Cost: $3000 
+Sell: $1500 
+Where: Buy at the Indigo Plateau Mart. 
+Affect: Recovers all HP, and cures all conditions for 1 Pokemon.
+
+GOLD TEETH     
+Cost: None  
+Sell: None  
+Where: Safari Zone Area 3. 
+Affect: Give to Safari Zone Warden for HM04.(Surf)
+
+GOOD ROD       
+Cost: None  
+Sell: None  
+Where: Given to you in Fuchsia City. 
+Affect: For capturing medium level Pokemon . 
+
+GUARD SPEC. 
+Cost: $700  
+Sell: $350  
+Where: Buy in Celadon Department Store on the 5F. 
+Affect: Temporarily protects from special attacks.
+
+HELIX FOSSIL   
+Cost: None  
+Sell: None  
+Where: Near the end of the Mt. Moon. 
+Affect: Turn into Omanyte at the Cinnibar Island Lab.
+
+HP UP          
+Cost: $9800 
+Sell: $4900 
+Where: Purchase in Celadon Department Store on the 5 th floor. 
+Affect: Boosts the max HP.
+
+HYPER POTION   
+Cost: $1500 
+Sell: $750  
+Where: various. 
+Affect: Recovers 200 HP. 
+
+ICE HEAL       
+Cost: $250  
+Sell: $125  
+Where: various. 
+Affect: Cures frozen. 
+
+Iron           
+Cost: $9800 
+Sell: $4900 
+Where: Purchase in Celadon Department Store on the 5F. 
+Affect: Boosts the Defense Stat.
+
+ITEM FINDER    
+Cost: None  
+Sell: None  
+Where: Get from Oak's aide in Route 11 
+Affect: Reveals hidden items.
+
+LEAF STONE     
+Cost: $2100 
+Sell: $1050 
+Where: Buy in Celadon Department Store on the 4F. 
+Affect: Evolve Gloom, Weepinbell, and Exeggcute.
+
+LEMONADE       
+Cost: $350  
+Sell: $175  
+Where: Buy on Celadon Department Store Roof. 
+Affect: Recovers 80 HP.
+
+LIFT KEY       
+Cost: None  
+Sell: None  
+Where: Rocket Hideout 4F. 
+Affect: unlock elevators in Rocket Hideout - Celadon
+
+Max Elixir     
+Cost: None  
+Sell: None  
+Where: Various
+Affect: Restores all PP, to all moves.
+
+MAX ETHER      
+Cost: None  
+Sell: None  
+Where: Various 
+Affect: Restores all PP to 1 move.
+
+MAX POTION     
+Cost: $2500 
+Sell: $1250 
+Where: Buy at the Indigo Plateau Mart. 
+Affect: Restores all HP.
+
+MAX REPEL      
+Cost: $700  
+Sell: $350  
+Where: Various 
+Affect: Weaker Pokemon will not attack for 250 steps.
+
+MAX REVIVE     
+Cost: None  
+Sell: $2000 
+Where: Various. 
+Affect: Recovers 1 KO'ed Pokemon to full HP.
+
+MOON STONE     
+Cost: None  
+Sell: None  
+Where: Mt. Moon, Rocket Hideout, Route 2, Pokemon Mansion. 
+Affect: Evolve Nidorina, Nidorino, Clefairy, and 
+Jigglypuff.
+
+NUGGET         
+Cost: None  
+Sell: $5000 
+Where: Various. 
+Affect: Sell for good money($5,000).
+
+OAK'S PARCEL   
+Cost: None  
+Sell: None  
+Where: Get in Viridian City Pokemon Center.(Near start of game) 
+Affect: Give to Professor Oak in Pallet Town to get your Pokedex.
+
+OLD AMBER      
+Cost: None  
+Sell: None  
+Where: Scientist in Pewter City Museum. 
+Affect: turn into Aerodactyl in Cinnibar Island Lab.
+
+OLD ROD        
+Cost: None  
+Sell: None  
+Where: Given to you in Vermillion City. 
+Affect: Fish for low level pokemon.
+
+PARALYZE HEAL  
+Cost: $200  
+Sell: $100  
+Where: Various 
+Affect: Cures Paralyze.
+
+POKE DOLL      
+Cost: $1000 
+Sell: $500  
+Where: B in Celadon Department Store 4F, or trade 
+TM 31 for it in Saffron City. 
+Affect: Escape from a battle.  
+
+POKE FLUTE     
+Cost: None 
+Sell: None 
+Where: Get from Mr. Fuji in Lavender Town. 
+Affect: Cures Sleep.
+
+POTION         
+Cost: $300  
+Sell: $150  
+Where: Various 
+Affect: Recover 20 HP.
+
+PP UP          
+Cost: None 
+Sell: None 
+Where: Various. 
+Affect: Boosts max PP of a move by 20% 
+
+PROTEIN        
+Cost: $9800 
+Sell: $4900 
+Where: Buy in Celadon Department Store on the 5F. 
+Affect: Boosts Attack Stat.
+
+RARE CANDY     
+Cost: None 
+Sell: $2400 
+Where: Various. 
+Affect: Ups level of one Pokemon by 1.
+
+REPEL          
+Cost: $350  
+Sell: $175  
+Where: Can be purchased in various locations. 
+Affect: Weaker Pokemon will not attack for 100 steps. 
+
+REVIVE         
+Cost: $1500 
+Sell: $750  
+Where: Can be purchased in various locations. 
+Affect: Revivess one KO'ed Pokemon's HP to 50%. 
+
+S.S. TICKET    
+Cost: None 
+Sell: None 
+Where: Get from Bill on Route 25. 
+Affect: Allows you to hop on the S.S. Anne in Vermillion City.
+
+SECRET KEY     
+Cost: None 
+Sell: None 
+Where: Cinnibar Island Mansion (Basement)
+Affect: Unlocks door to The Pokemon Gym in Cinnibar Island. 
+
+SILPH SCOPE    
+Cost: None 
+Sell: None 
+Where: Beat Giovanni in the Rocket Hideout on the 4F. 
+Affect: Lets you to see ghosts, in the Pokemon Tower.
+
+SODA POP       
+Cost: $300  
+Sell: $150  
+Where: Buy Celadon Department Store Roof. 
+Affect: Heals 60 HP.
+
+SUPER POTION   
+Cost: $700  
+Sell: $350  
+Where: Various. 
+Affect: Recovers 70 HP.
+
+SUPER REPEL    
+Cost: $500  
+Sell: $250  
+Where: Can be purchased in various locations. 
+Affect: Weaker Pokemon will not attack, for 200 steps.
+
+SUPER ROD      
+Cost: None 
+Sell: None 
+Where: In the Route 12 building. 
+Affect: Go fishing in the water,  for any Pokemon. 
+
+THUNDER STONE  
+Cost: $2100 
+Sell: $1050 
+Where: Buy in Celadon Department Store on 4F. 
+Affect: Evolves Eevee and Pikachu. 
+
+TOWN MAP       
+Cost: None 
+Sell: None 
+Where: Get in Pallet Town off Gary's Sister. 
+Affect: Shows your position on the Pokemon's World Map.
+
+WATER STONE    
+Cost: $2100 
+Sell: $1050 
+Where: Purchase in Celadon Department Store on the 4 th floor. 
+Affect: Evolves Poliwhirl, Shelder, Staryu, and Eevee. 
+
+X ACCURACY     
+Cost: $950  
+Sell: $475  
+Where: Buy in Celadon Department Store on the 5F. 
+Affect: Temporarily raise Accuracy in battle.
+
+X ATTACK       
+Cost: $500  
+Sell: $250  
+Where: Buy in Celadon Department Store on the 5F. 
+Affect: Temporarily raise Attack in battle.
+
+X DEFEND       
+Cost: $550  
+Sell: $275  
+Where: Buy in Celadon Department Store on the 5F. 
+Affect: Temporarily raise Defense in battle.
+
+X SPECIAL      
+Cost: $350  
+Sell: $175  
+Where: Buy in Celadon Department Store on the 5F. 
+Affect: Temporarily raise Special in battle.
+
+X SPEED        
+Cost: $350  
+Sell: $175  
+Where: Buy in Celadon Department Store on the 5F. 
+Affect: Temporarily raise Speed in battle.

@@ -1,0 +1,7 @@
+#GUARD SPEC.#
+buy:  700
+sell:  350
+type: basic
+battle:  Temporarily protects from special attacks.
+uses: 1
+map:  Temporarily protects from special attacks.

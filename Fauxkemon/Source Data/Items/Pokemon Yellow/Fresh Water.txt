@@ -1,0 +1,7 @@
+#FRESH WATER#
+buy:  200
+sell:  100
+type: basic
+battle:  Recover 50 HP for 1 Pokemon.
+uses: 1
+map:  Recover 50 HP for 1 Pokemon.

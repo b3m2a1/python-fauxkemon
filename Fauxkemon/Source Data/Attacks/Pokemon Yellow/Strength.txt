@@ -1,0 +1,14 @@
+#MOVE: Strength#
+type: normal
+mode: physical
+attack: 80
+effect: none@0
+map: strength
+hit_rate: 1.0
+hits:1
+turns:1
+priority: 1
+pp: 15
+
+
+

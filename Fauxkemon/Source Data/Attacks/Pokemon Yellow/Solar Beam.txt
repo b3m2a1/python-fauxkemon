@@ -1,0 +1,11 @@
+#MOVE: Solar Beam#
+type: grass
+mode: special
+attack: 120
+effect: solar_beam
+hit_rate: 1.0
+hits:2
+turns:1
+priority: 1
+pp: 10
+

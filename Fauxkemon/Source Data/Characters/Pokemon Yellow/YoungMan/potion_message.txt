@@ -1,0 +1,15 @@
+#FLAGBLOCK
+
+Hi! I work at the PokeMart in Veridian City or something like that! PokeMarts are useful when your pokemon are hurt or you need balls or repels or that sort of thing.
+---NEW MESSAGE---
+Here's a sample!
+#CMD
+give_item['Potion']
+set_flag[route_1_guy_potion]
+#CMD
+
+#FLAG route_1_guy_potion
+Come visit us in Veridian City!
+
+#FLAGBLOCK
+

@@ -1,0 +1,2 @@
+tiletype: homewall
+spaces: 1

@@ -1,0 +1,6 @@
+#NUGGET#
+buy:  None
+sell:  5000
+type: key
+uses: -
+map:  Sell for good money(5,000).

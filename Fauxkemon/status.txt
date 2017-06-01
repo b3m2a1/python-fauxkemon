@@ -1,0 +1,100 @@
+Done:
+
+	Map created. Works on a tile-base format with event handles called for things like 
+	entering a cell or leaving it, a character spawning or dying. Tints can be applied
+	which take a bw cell/character and map portions of it (which portions are defined in 
+	the State file to RGB tuples, using a different mask for each portion. Portions should
+	not be made to overlap, as this will cause only the newest value to mask on.)
+		For more look at classes Map.py, Tile.py, Character.py
+	
+	A map-maker for configuring maps visually is found in MapMaker.py This can also be used to 	edit tiles and characters.
+	
+	General data types written:
+		Pokemon, Attack, Item, Trainer
+		Preppers to take data from Bulbapedia included for each
+	
+	Battle-screen basics are written. Need more animation use and nicer battle start animations.
+
+	Choose game screen written, along with the various editors in use.
+
+	GameFolder class to save map, trainer, and pokemon data written. This stores the actual 
+	game-state data.
+
+Need to do:
+		
+	Event Queue:
+	    
+	    Allow for queue locking at given points to prevent event overloading. This shouldn't be the 
+	    default, but would be really useful.
+	    
+	Map:
+	
+		Have the text screen pan two words rather than one line for each a-press. (very easy)
+		In process_text check the message for flags first. Take the latest flag message, if available.
+	
+		Have maps smoothly transition into one-another. Have a map load its neighbors in the 
+		background and when the other comes into view, have the character slide onto it. This
+		will require some messing around with either packing the two frames side by side or 
+		making one compilation map. The former seems easier. The only requirement is that if a
+		map is loadable in that direction, the game-screen needs to shift to accomodate it.
+		That can be done using place, though, on the game/map screen.
+	
+	Pokemon:
+		
+		Needs evolutions and learning moves upon level up. Simply check the possible moves for the
+		pokemon to learn. Add a "learn_move" method to open the dialog if necessary and simply show
+		the new moves if not.        
+	
+	Battle:
+	
+		Refine battle-screen so that all the required dialogs are there.
+
+		Write attack animations and add more effects and items
+	
+	Cutscene:
+	    
+	    Cutscenes need only be sets of tkinter Frames which the Cutscene will negotiate panning through
+		Potentially define a Cutscene file format, much like was done with the animations. Load the 
+		cutscene animation in the same way and specify things like frame rates and pauses in file.
+		Return a cutscene function which returns a generator for the frames, taking the Cutscene
+		instance as an argument, at least.
+	
+	SoundPlayer:
+	    
+	    Seeing as the code is probably already not Windows or Linux portable, just write a SoundPlayer
+	    that works with subprocess to negotiate starting an stopping sounds playing through afplay
+	    
+	    Create a single manager class that can negotiate starting and stopping different sound files as
+	    well as playing them on a loop.
+	
+	
+Future ideas:
+	
+	Map:
+	    
+		Increase canvas sensitivity to 8x8 pixel tiles, rather than the 16x16 ones in use 
+		right now. Characters would then double in height and width. 
+	
+		Implement a cell-group class which keeps callbacks for a set tiles. 
+		Each tile then only needs one call-back action, which is to forward all its callbacks 
+		to its cell-group.
+	
+		Could automatically have cell-grouping in fours so that the map-editor would need only
+		minor changes. If only a single name were provided for a cell, the default action 
+		would be to draw a single png over four tiles. This makes things like signs and trees
+		easier, as then each requires only one tile folder and a size parameter. .tlf files 
+		could be replaced with the new tile folders.
+	
+		Saving cell-groups would require extra configuration, of course, but could be done 
+		using idKeys. i.e., instead of a cell string, use "cellGroup<#####>" as the save 
+		parameter and then later in the file define "cellGroup<#####>" like cells are 
+		currently. This would also simplify adding textures, as these could be written as cell
+		groups.
+	
+		This would allow for greater customization and easier extension to future generations.
+		
+	Data Types:
+	
+		Write an editor for each data-type so that formatting them is easier and obvious.
+		e.g. a pokemon editor form that provides slots for each base stat, a button to load front and 
+		back sprites, evolution linkages, base experience, etc.

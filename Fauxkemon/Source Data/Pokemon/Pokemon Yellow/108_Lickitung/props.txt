@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:normal
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 90
+attack: 55
+defense: 75
+special_attack: 30
+special_defense: 30
+speed: 60
+#MOVELIST#
+0 Wrap
+0 Supersonic
+7 Stomp
+15 Disable
+23 Defense Curl
+31 Slam
+39 Screech

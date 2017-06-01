@@ -1,0 +1,2 @@
+tiletype: border
+spaces: 0

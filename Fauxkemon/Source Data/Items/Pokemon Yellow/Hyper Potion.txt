@@ -1,0 +1,7 @@
+#HYPER POTION#
+buy:  1500
+sell:  750
+type: basic
+battle:  Recovers 200 HP.
+uses: 1
+map:  Recovers 200 HP.

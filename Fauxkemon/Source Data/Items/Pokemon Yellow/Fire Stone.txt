@@ -1,0 +1,7 @@
+#FIRE STONE#
+buy:  2100
+sell:  1050
+type: basic
+battle:  Evolve Growlithe, Vulpix, and Eevee.
+uses: 1
+map:  Evolve Growlithe, Vulpix, and Eevee.

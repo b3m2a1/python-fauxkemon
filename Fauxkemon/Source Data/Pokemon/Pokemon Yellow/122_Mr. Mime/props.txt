@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:psychic
+height:
+weight:
+evolution:
+#BASESTATS#
+HP: 40
+attack: 45
+defense: 65
+special_attack: 100
+special_defense: 100
+speed: 90
+#MOVELIST#
+0 Confusion
+0 Barrier
+15 Confusion
+23 Light Screen
+31 DoubleSlap
+39 Meditate
+47 Substitute

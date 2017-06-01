@@ -1,0 +1,4 @@
+tiletype: water
+spaces: 1
+buttons: a_button enter_water
+events: exit 1.0 exit_water

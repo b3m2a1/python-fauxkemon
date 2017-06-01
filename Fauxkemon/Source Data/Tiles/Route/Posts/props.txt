@@ -1,0 +1,2 @@
+tiletype: posts
+spaces: 0

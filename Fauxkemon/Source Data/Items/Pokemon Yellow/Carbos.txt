@@ -1,0 +1,7 @@
+#CARBOS#
+buy:  9800
+sell:  4900
+type: basic
+battle:  Boost Speed stat
+uses: 1
+map:  Boost Speed stat

@@ -1,0 +1,11 @@
+#MOVE: Sleep Powder#
+type: grass
+mode: status
+attack: —
+effect: sleep
+hit_rate: 0.75
+hits:1
+turns:1
+priority: 1
+pp: 15
+

@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:fire
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 65
+attack: 95
+defense: 57
+special_attack: 93
+special_defense: 93
+speed: 85
+#MOVELIST#
+0 Ember
+36 Leer
+39 Confuse Ray
+43 Fire Punch
+48 SmokeScreen
+52 Smog
+55 Flamethrower

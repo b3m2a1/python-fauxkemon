@@ -1,0 +1,5 @@
+tiletype: grass
+spaces: 1
+events: enter 0.1 pokemon_encounter
+draw_mode: above
+

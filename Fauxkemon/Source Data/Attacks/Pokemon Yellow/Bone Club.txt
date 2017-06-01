@@ -1,0 +1,11 @@
+#MOVE: Bone Club#
+type: ground
+mode: physical
+attack: 65
+effect: flinch@0.1
+hit_rate: 0.85
+hits:1
+turns:1
+priority: 1
+pp: 20
+

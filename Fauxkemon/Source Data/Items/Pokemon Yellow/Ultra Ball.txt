@@ -1,0 +1,6 @@
+#ULTRA BALL#
+buy:  1200
+sell:  600
+type: ball
+uses: 1
+battle:  Can be used to capture wild Pokemon. (x2 Catch Rate)

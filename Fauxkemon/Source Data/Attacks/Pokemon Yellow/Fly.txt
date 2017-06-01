@@ -1,0 +1,11 @@
+#MOVE: Fly#
+type: flying
+mode: physical
+attack: 90
+effect: fly
+hit_rate: 0.95
+hits:2
+turns:1
+priority: 1
+pp: 15
+

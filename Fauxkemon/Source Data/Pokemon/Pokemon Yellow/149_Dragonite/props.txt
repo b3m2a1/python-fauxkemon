@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:dragon,flying
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 91
+attack: 134
+defense: 95
+special_attack: 80
+special_defense: 80
+speed: 100
+#MOVELIST#
+0 Wrap
+0 Leer
+0 Thunder Wave
+0 Agility
+35 Slam
+45 Dragon Rage
+60 Hyper Beam

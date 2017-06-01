@@ -1,0 +1,37 @@
+HM 01 - Cut
+Type: Normal
+Description: Damage to the opposing Pokemon, and cuts down bushes.
+PP: 30
+Location:  S.S Anne
+
+
+
+HM 02 - Fly 
+Type: Flying
+Description: Pokemon flies on the first turn and attacks on the second turn, and fly you to towns.
+PP: 15
+Location: Route 16
+
+
+
+HM 03 - Surf
+Type: Water
+Description: Does water damage to the opposing Pokemon, and lets you swim in water.
+PP: 15
+Location: Safari Zone - Hidden House
+
+
+
+HM 04 - Strength
+Type: Normal
+Description: Deals damage to the opposing Pokemon, and moves boulders.
+PP: 15
+Location: Fuchsia City
+
+
+
+HM 05 - Flash
+Type: Normal 
+Description: Blinds the opposing Pokemon, and lights up pitch black caves.
+PP: 20
+Location: Route 2

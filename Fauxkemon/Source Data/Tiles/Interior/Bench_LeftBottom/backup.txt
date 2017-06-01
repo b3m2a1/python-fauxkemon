@@ -1,0 +1,2 @@
+tiletype: bench_leftbottom
+spaces: 1

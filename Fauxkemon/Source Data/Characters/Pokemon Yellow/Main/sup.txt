@@ -1,0 +1,11 @@
+Want an item?
+#YN
+#Y
+cell_message['here']
+wait[.2]
+give_item
+#N
+cell_message['insist']
+wait[.2]
+cell_message['sup']
+#YN

@@ -1,0 +1,2 @@
+tiletype: rockycornerlt
+spaces: 0

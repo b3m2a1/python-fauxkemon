@@ -1,0 +1,7 @@
+#SODA POP#
+buy:  300
+sell:  150
+type: basic
+battle:  Heals 60 HP.
+uses: 1
+map:  Heals 60 HP.

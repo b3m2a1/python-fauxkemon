@@ -1,0 +1,6 @@
+#GOLD TEETH#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Give to Safari Zone Warden for HM04.(Surf)

@@ -1,0 +1,7 @@
+#ICE HEAL#
+buy:  250
+sell:  125
+type: basic
+battle:  Cures frozen.
+uses: 1
+map:  Cures frozen.

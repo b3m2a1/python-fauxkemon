@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:fire,flying
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 78
+attack: 84
+defense: 78
+special_attack: 100
+special_defense: 100
+speed: 85
+#MOVELIST#
+0 Scratch
+0 Growl
+0 Ember
+0 Leer
+24 Rage
+36 Slash
+46 Flamethrower
+55 Fire Spin

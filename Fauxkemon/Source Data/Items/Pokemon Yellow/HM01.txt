@@ -1,0 +1,6 @@
+#HM 01#
+buy: -
+sell: -
+type: tm
+uses: Cut
+map: teach_Cut

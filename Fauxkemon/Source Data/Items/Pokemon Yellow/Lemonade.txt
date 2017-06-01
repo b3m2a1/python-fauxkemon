@@ -1,0 +1,7 @@
+#LEMONADE#
+buy:  350
+sell:  175
+type: basic
+battle:  Recovers 80 HP.
+uses: 1
+map:  Recovers 80 HP.

@@ -1,0 +1,3 @@
+charname: 
+size: 
+a_button: a_button pokemon_encounter[Snorlax]

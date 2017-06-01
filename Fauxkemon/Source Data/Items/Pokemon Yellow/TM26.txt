@@ -1,0 +1,6 @@
+#TM26#
+buy: 2000
+sell: 500
+type: tm
+uses: Earthquake
+map: teach_Earthquake

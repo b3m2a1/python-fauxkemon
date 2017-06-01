@@ -1,0 +1,11 @@
+#MOVE: Hyper Fang#
+type: normal
+mode: physical
+attack: 80
+effect:flinch@0.1
+hit_rate: 0.9
+hits:1
+turns:1
+priority: 1
+pp: 15
+

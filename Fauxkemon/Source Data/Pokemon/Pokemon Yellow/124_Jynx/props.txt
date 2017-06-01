@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:ice,psychic
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 65
+attack: 50
+defense: 35
+special_attack: 95
+special_defense: 95
+speed: 95
+#MOVELIST#
+0 Pound
+0 Lovely Kiss
+18 Lick
+23 DoubleSlap
+31 Ice Punch
+39 Body Slam
+47 Thrash
+58 Blizzard

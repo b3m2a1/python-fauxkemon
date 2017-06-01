@@ -1,0 +1,6 @@
+#TM18#
+buy: 2000
+sell: 500
+type: tm
+uses: Counter
+map: teach_Counter

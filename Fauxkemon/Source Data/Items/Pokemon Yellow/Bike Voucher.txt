@@ -1,0 +1,6 @@
+#BIKE VOUCHER#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Redeem at Cerulean Bike Shop for free bike.

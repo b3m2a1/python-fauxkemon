@@ -1,0 +1,2 @@
+tiletype: paneledwall
+spaces: 1

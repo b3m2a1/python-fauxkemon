@@ -1,0 +1,12 @@
+#MOVE: Agility#
+type: psychic
+mode: status
+attack: —
+effect:user[speed+2]
+hit_rate: 1
+hits:1
+turns:1
+priority: 1
+pp: 30
+
+

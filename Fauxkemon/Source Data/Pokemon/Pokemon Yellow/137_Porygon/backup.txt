@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:normal
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 65
+attack: 60
+defense: 70
+special_attack: 40
+special_defense: 40
+speed: 75
+#MOVELIST#
+0 Tackle
+0 Sharpen
+0 Conversion
+23 Psybeam
+28 Recover
+35 Agility
+42 Tri Attack

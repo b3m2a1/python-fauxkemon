@@ -1,0 +1,3 @@
+tiletype: grass
+spaces: 1
+events: enter 0.05 pokemon_encounter

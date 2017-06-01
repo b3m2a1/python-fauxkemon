@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 79
+attack: 83
+defense: 100
+special_attack: 78
+special_defense: 78
+speed: 85
+#MOVELIST#
+0 Tackle
+0 Tail Whip
+0 Bubble
+0 Water Gun
+24 Bite
+31 Withdraw
+42 Skull Bash
+52 Hydro Pump

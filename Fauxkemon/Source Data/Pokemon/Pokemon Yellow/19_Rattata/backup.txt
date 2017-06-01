@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:normal
+height:.4
+weight:6
+evolution:
+catch_rate: 255
+#BASESTATS#
+HP: 30
+attack: 56
+defense: 35
+special_attack: 72
+special_defense: 72
+speed: 25
+#MOVELIST#
+0 Tackle
+0 Tail Whip
+7 Quick Attack
+14 Hyper Fang
+23 Focus Energy
+34 Super Fang

@@ -1,0 +1,7 @@
+#MAX POTION#
+buy:  2500
+sell:  1250
+type: basic
+battle:  Restores all HP.
+uses: 1
+map:  Restores all HP.

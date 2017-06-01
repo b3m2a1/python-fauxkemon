@@ -1,0 +1,15 @@
+#MOVE: Thrash#
+type: normal
+mode: physical
+attack: 120
+effect: user[thrash]
+hit_rate: 1.0
+hits:1
+turns:2-3
+priority: 1
+pp: 10
+
+
+
+
+

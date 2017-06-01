@@ -1,0 +1,17 @@
+#FLAGBLOCK
+
+Talk to the old man.
+
+#FLAG got_pikachu
+
+Let's test our pokemon.
+#CMD
+set_flag['first_battle']
+start_battle
+#CMD
+
+#FLAG first_battle
+
+Good match, I guess.
+
+#FLAGBLOCK

@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:normal
+height:
+weight:
+evolution:
+catch_rate: 25
+#BASESTATS#
+HP: 160
+attack: 110
+defense: 65
+special_attack: 30
+special_defense: 30
+speed: 65
+#MOVELIST#
+0 Headbutt
+0 Amnesia
+0 Rest
+35 Body Slam
+41 Harden
+48 Double-Edge
+56 Hyper Beam

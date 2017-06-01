@@ -1,0 +1,6 @@
+#LIFT KEY#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  unlock elevators in Rocket Hideout - Celadon

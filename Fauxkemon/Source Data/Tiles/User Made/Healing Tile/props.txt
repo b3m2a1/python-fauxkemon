@@ -1,0 +1,3 @@
+tiletype: tile
+spaces: 1
+buttons: a_button hop

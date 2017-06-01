@@ -1,0 +1,18 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water,fighting
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 90
+attack: 85
+defense: 95
+special_attack: 70
+special_defense: 70
+speed: 70
+#MOVELIST#
+0 Hypnosis
+0 Water Gun
+0 DoubleSlap
+0 Body Slam

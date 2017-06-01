@@ -1,0 +1,3 @@
+tiletype: wall
+spaces: 0
+

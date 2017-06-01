@@ -1,0 +1,2 @@
+tiletype: bed_bottom
+spaces: 1

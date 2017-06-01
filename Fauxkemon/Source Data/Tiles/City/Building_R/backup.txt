@@ -1,0 +1,2 @@
+tiletype: building_r
+spaces: 1

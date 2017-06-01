@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:rock,water
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 70
+attack: 60
+defense: 125
+special_attack: 55
+special_defense: 55
+speed: 115
+#MOVELIST#
+0 Water Gun
+0 Withdraw
+0 Horn Attack
+39 Leer
+44 Spike Cannon
+49 Hydro Pump

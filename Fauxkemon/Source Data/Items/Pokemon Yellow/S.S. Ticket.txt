@@ -1,0 +1,6 @@
+#S.S. TICKET#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Allows you to hop on the S.S. Anne in Vermillion City.

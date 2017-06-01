@@ -1,0 +1,6 @@
+#Master Ball#
+buy:  -----
+sell:  -----
+type: ball
+uses: 1
+battle:  Never fails to capture a wild Pokemon.(100% catch rate)

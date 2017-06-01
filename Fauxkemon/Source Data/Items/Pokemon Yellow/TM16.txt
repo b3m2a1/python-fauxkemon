@@ -1,0 +1,6 @@
+#TM16#
+buy: 2000
+sell: 500
+type: tm
+uses: Pay Day
+map: teach_Pay Day

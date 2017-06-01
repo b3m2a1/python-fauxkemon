@@ -1,0 +1,2 @@
+tiletype: house floor
+spaces: 1

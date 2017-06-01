@@ -1,0 +1,7 @@
+#HP UP#
+buy:  9800
+sell:  4900
+type: basic
+battle:  Boosts the max HP.
+uses: 1
+map:  Boosts the max HP.

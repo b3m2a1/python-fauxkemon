@@ -1,0 +1,6 @@
+#TM22#
+buy: 2000
+sell: 500
+type: tm
+uses: Solar Beam
+map: teach_Solar Beam

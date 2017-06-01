@@ -1,0 +1,12 @@
+#MOVE: Swords Dance#
+type: normal
+mode: status
+attack: -
+effect: user[attack+2]
+hit_rate: 1
+hits:1
+turns:1
+priority: 1
+pp: 20
+
+

@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:psychic
+height:
+weight:
+evolution:
+catch_rate: 100
+#BASESTATS#
+HP: 40
+attack: 35
+defense: 30
+special_attack: 105
+special_defense: 105
+speed: 120
+#MOVELIST#
+0 Teleport
+ Confusion
+ Disable
+ Kinesis
+27 Psybeam
+31 Recover
+38 Psychic
+42 Reflect

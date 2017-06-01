@@ -1,0 +1,2 @@
+tiletype: stool
+spaces: 0

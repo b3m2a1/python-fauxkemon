@@ -1,0 +1,11 @@
+#MOVE: Light Screen#
+type: psychic
+mode: status
+attack: —
+effect: barrier['special']
+hit_rate: 1
+hits:1
+turns:1
+priority: 1
+pp: 30
+

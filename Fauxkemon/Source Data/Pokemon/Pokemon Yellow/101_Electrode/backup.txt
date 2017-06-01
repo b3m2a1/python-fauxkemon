@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:electric
+height:
+weight:
+evolution:
+catch_rate: 60
+#BASESTATS#
+HP: 60
+attack: 50
+defense: 70
+special_attack: 140
+special_defense: 140
+speed: 80
+#MOVELIST#
+0 Tackle
+0 Screech
+0 SonicBoom
+22 Selfdestruct
+29 Light Screen
+40 Swift
+50 Explosion

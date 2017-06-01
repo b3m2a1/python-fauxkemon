@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water
+height:
+weight:
+evolution:
+catch_rate: 255
+#BASESTATS#
+HP: 40
+attack: 50
+defense: 40
+special_attack: 90
+special_defense: 90
+speed: 40
+#MOVELIST#
+0 Bubble
+16 Hypnosis
+19 Water Gun
+25 DoubleSlap
+31 Body Slam
+38 Amnesia
+45 Hydro Pump

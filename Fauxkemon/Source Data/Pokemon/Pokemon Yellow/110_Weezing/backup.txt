@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:poison
+height:
+weight:
+evolution:
+catch_rate: 60
+#BASESTATS#
+HP: 65
+attack: 90
+defense: 120
+special_attack: 60
+special_defense: 60
+speed: 85
+#MOVELIST#
+0 Tackle
+0 Smog
+0 Sludge
+39 SmokeScreen
+43 Selfdestruct
+49 Haze
+53 Explosion

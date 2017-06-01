@@ -1,0 +1,17 @@
+#PROPERTIES (height in m, weight in kg)#
+type:electric
+height:.4
+weight:6
+#BASESTATS#
+HP:35
+attack: 50
+defense:30
+special_attack:50
+special_defense:50
+speed:90
+#MOVELIST#
+0 Growl
+0 Thundershock
+7 Tail Whip
+11 Quick Attack
+

@@ -1,0 +1,4 @@
+BuildingRoof_LT|BuildingRoof_T |BuildingRoof_T |BuildingRoof_RT
+BuildingRoof_LB|BuildingRoof_B |BuildingRoof_B |BuildingRoof_RB
+Building_L     |BuildingWindows|BuildingWindows|Building_R
+Building_LB    |Door           |PokeCenterSign |Building_RB

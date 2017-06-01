@@ -1,0 +1,6 @@
+#GREAT BALL#
+buy:  600
+sell:  300
+type: ball
+uses: 1
+battle:  Can be used to capture wild Pokemon. (x1.5 Catch Rate)

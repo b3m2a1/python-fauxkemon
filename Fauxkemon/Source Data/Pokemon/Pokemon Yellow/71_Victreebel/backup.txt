@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:grass,poison
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 80
+attack: 105
+defense: 65
+special_attack: 70
+special_defense: 70
+speed: 100
+#MOVELIST#
+0 Sleep Powder
+0 Stun Spore
+0 Acid
+0 Razor Leaf
+13 Wrap
+15 PoisonPowder

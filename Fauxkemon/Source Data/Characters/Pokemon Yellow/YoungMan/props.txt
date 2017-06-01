@@ -1,0 +1,3 @@
+charname: 
+size: 
+a_button: cell_message

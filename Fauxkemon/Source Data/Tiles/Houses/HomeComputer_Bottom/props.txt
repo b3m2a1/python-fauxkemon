@@ -1,0 +1,3 @@
+tiletype: computer
+spaces: 0
+

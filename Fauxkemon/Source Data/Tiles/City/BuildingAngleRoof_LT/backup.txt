@@ -1,0 +1,2 @@
+tiletype: buildingroof_rt
+spaces: 0

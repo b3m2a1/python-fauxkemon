@@ -1,0 +1,7 @@
+#WATER STONE#
+buy:  2100
+sell:  1050
+type: basic
+battle:  Evolves Poliwhirl, Shelder, Staryu, and Eevee.
+uses: 1
+map:  Evolves Poliwhirl, Shelder, Staryu, and Eevee.

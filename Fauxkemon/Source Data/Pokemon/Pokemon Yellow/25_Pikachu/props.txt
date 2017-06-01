@@ -1,0 +1,26 @@
+#PROPERTIES (height in m, weight in kg)#
+type:electric
+height:.4
+weight:6
+evolution:
+catch_rate: 190
+#BASESTATS#
+HP: 35
+attack: 55
+defense: 30
+special_attack: 90
+special_defense: 90
+speed: 50
+#MOVELIST#
+0 ThunderShock
+0 Growl
+6 Tail Whip
+8 Thunder Wave
+11 Quick Attack
+15 Double Team
+20 Slam
+26 Swift
+26 Thunderbolt
+33 Agility
+41 Thunder
+50 Light Screen

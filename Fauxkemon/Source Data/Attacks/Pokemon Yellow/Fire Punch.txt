@@ -1,0 +1,11 @@
+#MOVE: Fire Punch#
+type: fire
+mode: physical
+attack: 75
+effect:burn@0.1
+hit_rate: 1.0
+hits:1
+turns:1
+priority: 1
+pp: 15
+

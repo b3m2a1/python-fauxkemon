@@ -1,0 +1,7 @@
+#FULL HEAL#
+buy:  600
+sell:  300
+type: basic
+battle:  Cures all condition for 1 Pokemon.
+uses: 1
+map:  Cures all condition for 1 Pokemon.

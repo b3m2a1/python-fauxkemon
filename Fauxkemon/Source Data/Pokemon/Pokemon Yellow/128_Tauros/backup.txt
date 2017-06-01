@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:normal
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 75
+attack: 100
+defense: 95
+special_attack: 110
+special_defense: 110
+speed: 70
+#MOVELIST#
+0 Tackle
+21 Stomp
+28 Tail Whip
+35 Leer
+44 Rage
+51 Take Down

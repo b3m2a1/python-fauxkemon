@@ -1,0 +1,6 @@
+#OLD AMBER#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  turn into Aerodactyl in Cinnibar Island Lab.

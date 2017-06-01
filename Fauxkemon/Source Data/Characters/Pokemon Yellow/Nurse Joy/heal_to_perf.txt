@@ -1,0 +1,13 @@
+We heal your Pokémon back to perfect health!
+Would you like to heal your Pokémon?
+
+
+#YN
+#Y
+cell_message['need_poke']
+poke_heal
+cell_message['fighting_fit']
+cell_message['come_again']
+#N
+cell_message['come_again']
+#YN

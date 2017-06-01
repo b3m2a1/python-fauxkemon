@@ -1,0 +1,2 @@
+tiletype: snes
+spaces: 0

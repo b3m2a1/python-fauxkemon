@@ -1,0 +1,50 @@
+TM01 - Mega Punch - Mt. Moon, Celadon Department Store - 3000 
+TM02 - Razor Wind - Celadon Department Store, Game Corner - 2000 
+TM03 - Sword's Dance - Saffron City Silph Co. 
+TM04 - Whirlwind - Route 4 
+TM05 - Mega Kick - Victory Road, Celadon Department Store - 3000 
+TM06 - Toxic - Fuchsia City Pokemon Gym 
+TM07 - Horn Drill - Celadon Department Store, Game Corner - 2000 
+TM08 - Body Slam - Vermilion City S.S. Anne 
+TM09 - Take Down - Saffron City, Celadon Department Store - 3000 
+TM10 - Double Edge - Game Corner 
+TM11 - Bubble Beam - Cerulean City Pokemon Gym 
+TM12 - Water Gun - Mt. Moon 
+TM13 - Ice Beam - Celadon Department Store Roof - Give girl Water 
+TM14 - Blizzard - Cinnabar Island Pokemon Mansion 
+TM15 - Hyper Beam - Celadon City Game Corner Exchange 
+TM16 - Pay Day - Route 12 
+TM17 - Submission - Victory Road, Celadon Department Store - 3000 
+TM18 - Counter - Celadon Department Store 
+TM19 - Seismic - Toss Route 25 
+TM20 - Rage - Route 15 
+TM21 - Mega Drain - Celadon City Pokemon Gym 
+TM22 - Solar Beam - Cinnabar Island Pokemon Mansion 
+TM23 - Dragon Rage - Celadon City Game Corner Exchange 
+TM24 - Thunderbolt - Vermilion Gym 
+TM25 - Thunder - Power Plant 
+TM26 - Earthquake - Saffron City Silph Co. 
+TM27 - Fissure - Viridian City Pokemon Gym 
+TM28 - Dig - Cerulean City 
+TM29 - Psychic - Saffron City 
+TM30 - Teleport - Route 9 
+TM31 - Mimic - Saffron City 
+TM32 - Double Team - Fuchsia City, Celadon Department Store - 1000 
+TM33 - Reflect - Power Plant, Celadon Department Store - 1000 
+TM34 - Bide - Pewter City Pokemon Gym 
+TM35 - Metronome - Cinnabar Island Pokemon Lab 
+TM36 - Self Destruct - Saffron City Silph Co. 
+TM37 - Egg Bomb - Fuchsia City, Celadon Department Store - 2000 
+TM38 - Fire Blast - Cinnabar Island Pokemon Gym 
+TM39 - Swift - Route 12 Lookout Station 
+TM40 - Skull Bash - Fuchsia City Safari Zone 
+TM41 - Soft Boiled - Celadon City 
+TM42 - Dream Eater - Viridian City 
+TM43 - Sky Attack - Victory Road 
+TM44 - Rest - Vermilion City S.S. Anne 
+TM45 - Thunder Wave - Route 24 
+TM46 - Psywave - Saffron City Pokemon Gym 
+TM47 - Explosion - Victory Road 
+TM48 - Rock Slide - Celadon Department Store Roof Give girl Soda 
+TM49 - Tri Attack - Celadon Department Store Roof Give girl Lemonade 
+TM50 - Substitute - Celadon City Game Corner Exchange

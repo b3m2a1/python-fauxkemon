@@ -1,0 +1,24 @@
+#PROPERTIES (height in m, weight in kg)#
+type:grass,poison
+height:
+weight:
+evolution: (Venusaur, 32)
+catch_rate: 45
+#BASESTATS#
+HP: 60
+attack: 62
+defense: 63
+special_attack: 60
+special_defense: 60
+speed: 80
+#MOVELIST#
+0 Tackle
+0 Growl
+0 Leech Seed
+13 Vine Whip
+22 PoisonPowder
+30 Razor Leaf
+38 Growth
+46 Sleep Powder
+54 SolarBeam
+

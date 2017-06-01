@@ -1,0 +1,19 @@
+#PROPERTIES (height in m, weight in kg)#
+type:ice,flying
+height:
+weight:
+evolution:
+catch_rate: 3
+#BASESTATS#
+HP: 90
+attack: 85
+defense: 100
+special_attack: 85
+special_defense: 85
+speed: 125
+#MOVELIST#
+0 Peck
+0 Ice Beam
+51 Blizzard
+55 Agility
+60 Mist

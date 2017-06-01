@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:normal,flying
+height:
+weight:
+evolution:
+catch_rate: 255
+#BASESTATS#
+HP: 40
+attack: 60
+defense: 30
+special_attack: 70
+special_defense: 70
+speed: 31
+#MOVELIST#
+0 Peck
+0 Growl
+9 Leer
+15 Fury Attack
+22 Mirror Move
+29 Drill Peck
+36 Agility

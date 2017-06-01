@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:bug,flying
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 70
+attack: 110
+defense: 80
+special_attack: 105
+special_defense: 105
+speed: 55
+#MOVELIST#
+0 Quick Attack
+17 Leer
+20 Focus Energy
+24 Double Team
+29 Slash
+35 Swords Dance
+42 Agility
+50 Wing Attack

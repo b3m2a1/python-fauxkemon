@@ -1,0 +1,7 @@
+#LEAF STONE#
+buy:  2100
+sell:  1050
+type: basic
+battle:  Evolve Gloom, Weepinbell, and Exeggcute.
+uses: 1
+map:  Evolve Gloom, Weepinbell, and Exeggcute.

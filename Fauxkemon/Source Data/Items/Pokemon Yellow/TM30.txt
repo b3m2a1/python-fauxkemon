@@ -1,0 +1,6 @@
+#TM30#
+buy: 2000
+sell: 500
+type: tm
+uses: Teleport
+map: teach_Teleport

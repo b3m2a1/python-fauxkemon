@@ -1,0 +1,11 @@
+#MOVE: Rolling Kick#
+type: fighting
+mode: physical
+attack: 60
+effect: flinch@0.3
+hit_rate: 0.85
+hits:1
+turns:1
+priority: 1
+pp: 15
+

@@ -1,0 +1,25 @@
+#PROPERTIES (height in m, weight in kg)#
+type:fire
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 65
+attack: 130
+defense: 60
+special_attack: 65
+special_defense: 65
+speed: 110
+#MOVELIST#
+0 Tackle
+0 Sand-Attack
+0 Tail Whip
+0 Quick Attack
+10 Ember
+30 Bite
+36 Fire Spin
+42 Leer
+42 Smog
+48 Rage
+52 Flamethrower

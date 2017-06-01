@@ -1,0 +1,8 @@
+type:Trainer
+pokemon:
+money:500
+image:Trainer.png
+messages:
+#message
+game_start
+…

@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:normal,fairy
+height:
+weight:
+evolution:
+catch_rate: 170
+#BASESTATS#
+HP: 115
+attack: 45
+defense: 20
+special_attack: 20
+special_defense: 20
+speed: 25
+#MOVELIST#
+0 Sing
+9 Pound
+14 Disable
+19 Defense Curl
+24 DoubleSlap
+29 Rest
+34 Body Slam
+39 Double-Edge

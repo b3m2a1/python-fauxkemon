@@ -1,0 +1,15 @@
+#PROPERTIES (height in m, weight in kg)#
+type:normal
+height:
+weight:
+evolution:
+catch_rate: 35
+#BASESTATS#
+HP: 48
+attack: 48
+defense: 48
+special_attack: 48
+special_defense: 48
+speed: 48
+#MOVELIST#
+0 Transform

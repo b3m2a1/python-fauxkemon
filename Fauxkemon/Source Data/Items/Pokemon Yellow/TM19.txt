@@ -1,0 +1,6 @@
+#TM19#
+buy: 2000
+sell: 500
+type: tm
+uses: Seismic
+map: teach_Seismic

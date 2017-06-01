@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:bug,poison
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 65
+attack: 80
+defense: 40
+special_attack: 75
+special_defense: 75
+speed: 45
+#MOVELIST#
+0 Fury Attack
+16 Focus Energy
+20 Twineedle
+25 Rage
+30 Pin Missile
+35 Agility

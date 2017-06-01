@@ -1,0 +1,7 @@
+#PROTEIN#
+buy:  9800
+sell:  4900
+type: basic
+battle:  Boosts Attack Stat.
+uses: 1
+map:  Boosts Attack Stat.

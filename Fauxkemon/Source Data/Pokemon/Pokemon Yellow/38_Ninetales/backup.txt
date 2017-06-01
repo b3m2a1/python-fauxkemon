@@ -1,0 +1,18 @@
+#PROPERTIES (height in m, weight in kg)#
+type:fire
+height:
+weight:
+evolution:
+catch_rate: 75
+#BASESTATS#
+HP: 73
+attack: 76
+defense: 75
+special_attack: 100
+special_defense: 100
+speed: 100
+#MOVELIST#
+0 Ember
+0 Tail Whip
+0 Quick Attack
+0 Roar

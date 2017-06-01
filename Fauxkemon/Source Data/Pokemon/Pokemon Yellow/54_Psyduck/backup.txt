@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water
+height:
+weight:
+evolution:
+catch_rate: 190
+#BASESTATS#
+HP: 50
+attack: 52
+defense: 48
+special_attack: 55
+special_defense: 55
+speed: 50
+#MOVELIST#
+0 Scratch
+28 Tail Whip
+31 Disable
+36 Confusion
+43 Fury Swipes
+52 Hydro Pump

@@ -1,0 +1,31 @@
+#PROPERTIES (height in m, weight in kg)#
+type:grass,poison
+height:
+weight:
+evolution: (Ivysaur,14)
+catch_rate: 45
+#BASESTATS#
+HP: 45
+attack: 49
+defense: 49
+special_attack: 45
+special_defense: 45
+speed: 65
+#MOVELIST#
+0 Tackle
+0 Growl
+7 Leech Seed
+13 Vine Whip
+20 PoisonPowder
+27 Razor Leaf
+34 Growth
+41 Sleep Powder
+48 SolarBeam
+
+
+
+
+
+
+
+

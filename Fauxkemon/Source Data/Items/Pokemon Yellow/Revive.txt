@@ -1,0 +1,7 @@
+#REVIVE#
+buy:  1500
+sell:  750
+type: basic
+battle:  Revivess one KO'ed Pokemon's HP to 50%.
+uses: 1
+map:  Revivess one KO'ed Pokemon's HP to 50%.

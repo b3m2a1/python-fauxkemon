@@ -1,0 +1,12 @@
+#MOVE: Tri Attack#
+type: normal
+mode: special
+attack: 80
+effect:choose_status[('burn','freeze','paralysis')]@0.2
+hit_rate: 1.0
+hits:1
+turns:1
+priority: 1
+pp: 10
+
+

@@ -1,0 +1,3 @@
+tiletype: ledge
+spaces: 0
+events: down_enter 1.0 hop

@@ -1,0 +1,2 @@
+tiletype: bed_top
+spaces: 1

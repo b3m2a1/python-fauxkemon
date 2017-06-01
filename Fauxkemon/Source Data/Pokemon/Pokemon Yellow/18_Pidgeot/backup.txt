@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:normal,flying
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 83
+attack: 80
+defense: 75
+special_attack: 91
+special_defense: 91
+speed: 70
+#MOVELIST#
+0 Gust
+0 Sand-Attack
+0 Quick Attack
+21 Whirlwind
+31 Wing Attack
+44 Agility
+54 Mirror Move

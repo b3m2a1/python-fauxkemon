@@ -1,0 +1,7 @@
+#POTION#
+buy:  300
+sell:  150
+type: basic
+battle:  Recovers 20 HP.
+uses: 1
+map:  Recovers 20 HP.

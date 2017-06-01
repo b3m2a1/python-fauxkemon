@@ -1,0 +1,11 @@
+#MOVE: Seismic Toss#
+type: fighting
+mode: physical
+attack: —
+effect: level_damage
+hit_rate: 1.0
+hits:1
+turns:1
+priority: 1
+pp: 20
+

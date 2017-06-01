@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:fighting
+height:
+weight:
+evolution:
+catch_rate: 180
+#BASESTATS#
+HP: 70
+attack: 80
+defense: 50
+special_attack: 35
+special_defense: 35
+speed: 35
+#MOVELIST#
+0 Karate Chop
+20 Low Kick
+25 Leer
+32 Focus Energy
+39 Seismic Toss
+46 Submission

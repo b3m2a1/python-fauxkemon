@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:bug,flying
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 60
+attack: 45
+defense: 50
+special_attack: 70
+special_defense: 70
+speed: 80
+#MOVELIST#
+0 Confusion
+13 PoisonPowder
+14 Stun Spore
+15 Sleep Powder
+18 Supersonic
+23 Whirlwind
+28 Gust
+32 Psybeam

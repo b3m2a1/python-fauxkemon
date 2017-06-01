@@ -1,0 +1,7 @@
+#FULL RESTORE#
+buy:  3000
+sell:  1500
+type: basic
+battle:  Recovers all HP, and cures all conditions for 1 Pokemon.
+uses: 1
+map:  Recovers all HP, and cures all conditions for 1 Pokemon.

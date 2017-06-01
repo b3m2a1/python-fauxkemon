@@ -1,0 +1,7 @@
+#POKE DOLL#
+buy:  1000
+sell:  500
+type: basic
+battle:  Escape from a battle.
+uses: 1
+map:  Escape from a battle.

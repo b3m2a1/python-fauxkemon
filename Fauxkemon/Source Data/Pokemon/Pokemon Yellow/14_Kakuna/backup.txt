@@ -1,0 +1,15 @@
+#PROPERTIES (height in m, weight in kg)#
+type:bug,poison
+height:
+weight:
+evolution:
+catch_rate: 120
+#BASESTATS#
+HP: 45
+attack: 25
+defense: 50
+special_attack: 35
+special_defense: 35
+speed: 25
+#MOVELIST#
+0 Harden

@@ -1,0 +1,24 @@
+#PROPERTIES (height in m, weight in kg)#
+type:bug,poison
+height:
+weight:
+evolution:
+catch_rate: 75
+#BASESTATS#
+HP: 70
+attack: 65
+defense: 60
+special_attack: 90
+special_defense: 90
+speed: 90
+#MOVELIST#
+0 Tackle
+0 Disable
+ PoisonPowder
+ Leech Life
+ Supersonic
+ Confusion
+30 Stun Spore
+38 Psybeam
+43 Sleep Powder
+50 Psychic

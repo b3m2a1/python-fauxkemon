@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water
+height:
+weight:
+evolution:
+catch_rate: 60
+#BASESTATS#
+HP: 80
+attack: 92
+defense: 65
+special_attack: 68
+special_defense: 68
+speed: 80
+#MOVELIST#
+0 Peck
+0 Tail Whip
+0 Supersonic
+24 Horn Attack
+30 Fury Attack
+39 Waterfall
+48 Horn Drill
+54 Agility

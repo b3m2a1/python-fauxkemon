@@ -1,0 +1,2 @@
+tiletype: bookshelf_b
+spaces: 1

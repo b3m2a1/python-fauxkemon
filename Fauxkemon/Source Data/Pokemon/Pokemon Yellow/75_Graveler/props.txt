@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:rock,ground
+height:
+weight:
+evolution:
+catch_rate: 120
+#BASESTATS#
+HP: 55
+attack: 95
+defense: 115
+special_attack: 35
+special_defense: 35
+speed: 45
+#MOVELIST#
+0 Tackle
+0 Defense Curl
+16 Rock Throw
+21 Selfdestruct
+29 Harden
+36 Earthquake
+43 Explosion

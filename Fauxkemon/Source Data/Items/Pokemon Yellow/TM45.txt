@@ -1,0 +1,6 @@
+#TM45#
+buy: 2000
+sell: 500
+type: tm
+uses: Thunder Wave
+map: teach_Thunder Wave

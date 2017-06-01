@@ -1,0 +1,2 @@
+Thank you! Your Pokémon are fighting fit!
+#PAUSE 1000

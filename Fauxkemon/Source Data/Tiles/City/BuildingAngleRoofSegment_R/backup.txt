@@ -1,0 +1,2 @@
+tiletype: buildingroofsegment_r
+spaces: 1

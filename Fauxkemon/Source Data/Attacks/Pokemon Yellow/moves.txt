@@ -1,0 +1,166 @@
+#FORMAT: NUM NAME TYPE CAT CONT PP POW ACC GEN
+1	Pound	Normal	Physical	Tough	35	40	100%	I
+2	Karate Chop	Fighting	Physical	Tough	25	50	100%	I
+3	Double Slap	Normal	Physical	Cute	10	15	85%	I
+4	Comet Punch	Normal	Physical	Tough	15	18	85%	I
+5	Mega Punch	Normal	Physical	Tough	20	80	85%	I
+6	Pay Day	Normal	Physical	Clever	20	40	100%	I
+7	Fire Punch	Fire	Physical	Tough	15	75	100%	I
+8	Ice Punch	Ice	Physical	Beautiful	15	75	100%	I
+9	Thunder Punch	Electric	Physical	Cool	15	75	100%	I
+10	Scratch	Normal	Physical	Tough	35	40	100%	I
+11	Vice Grip	Normal	Physical	Tough	30	55	100%	I
+12	Guillotine	Normal	Physical	Cool	5	—	—**	I
+13	Razor Wind	Normal	Special	Cool	10	80	100%*	I
+14	Swords Dance	Normal	Status	Beautiful	20*	-	—	I
+15	Cut	Normal	Physical	Cool	30	50	95%	I
+16	Gust	Flying	Special	Clever	35	40	100%	I
+17	Wing Attack	Flying	Physical	Cool	35	60*	100%	I
+18	Whirlwind	Normal	Status	Clever	20	—	—*	I
+19	Fly	Flying	Physical	Clever	15	90*	95%	I
+20	Bind	Normal	Physical	Tough	20	15	85%*	I
+21	Slam	Normal	Physical	Tough	20	80	75%	I
+22	Vine Whip	Grass	Physical	Cool	25*	45*	100%	I
+23	Stomp	Normal	Physical	Tough	20	65	100%	I
+24	Double Kick	Fighting	Physical	Cool	30	30	100%	I
+25	Mega Kick	Normal	Physical	Cool	5	120	75%	I
+26	Jump Kick	Fighting	Physical	Cool	10*	100*	95%	I
+27	Rolling Kick	Fighting	Physical	Cool	15	60	85%	I
+28	Sand Attack	Ground	Status	Cute	15	—	100%	I
+29	Headbutt	Normal	Physical	Tough	15	70	100%	I
+30	Horn Attack	Normal	Physical	Cool	25	65	100%	I
+31	Fury Attack	Normal	Physical	Cool	20	15	85%	I
+32	Horn Drill	Normal	Physical	Cool	5	—	—	I
+33	Tackle	Normal	Physical	Tough	35	50*	100%*	I
+34	Body Slam	Normal	Physical	Tough	15	85	100%	I
+35	Wrap	Normal	Physical	Tough	20	15	90%*	I
+36	Take Down	Normal	Physical	Tough	20	90	85%	I
+37	Thrash	Normal	Physical	Tough	10*	120*	100%	I
+38	Double-Edge	Normal	Physical	Tough	15	120*	100%	I
+39	Tail Whip	Normal	Status	Cute	30	—	100%	I
+40	Poison Sting	Poison	Physical	Clever	35	15	100%	I
+41	Twineedle	Bug	Physical	Cool	20	25	100%	I
+42	Pin Missile	Bug	Physical	Cool	20	25*	95%*	I
+43	Leer	Normal	Status	Cool	30	—	100%	I
+44	Bite	Normal	Physical	Tough	25	60	100%	I
+45	Growl	Normal	Status	Cute	40	—	100%	I
+46	Roar	Normal	Status	Cool	20	—	—*	I
+47	Sing	Normal	Status	Cute	15	—	55%	I
+48	Supersonic	Normal	Status	Clever	20	—	55%	I
+49	Sonic Boom	Normal	Special	Cool	20	*	90%	I
+50	Disable	Normal	Status	Clever	20	—	100%*	I
+51	Acid	Poison	Special	Clever	30	40	100%	I
+52	Ember	Fire	Special	Cute	25	40	100%	I
+53	Flamethrower	Fire	Special	Beautiful	15	90*	100%	I
+54	Mist	Ice	Status	Beautiful	30	—	—	I
+55	Water Gun	Water	Special	Cute	25	40	100%	I
+56	Hydro Pump	Water	Special	Beautiful	5	110*	80%	I
+57	Surf	Water	Special	Beautiful	15	90*	100%	I
+58	Ice Beam	Ice	Special	Beautiful	10	90*	100%	I
+59	Blizzard	Ice	Special	Beautiful	5	110*	70%*	I
+60	Psybeam	Psychic	Special	Beautiful	20	65	100%	I
+61	Bubble Beam	Water	Special	Beautiful	20	65	100%	I
+62	Aurora Beam	Ice	Special	Beautiful	20	65	100%	I
+63	Hyper Beam	Normal	Special	Cool	5	150	90%	I
+64	Peck	Flying	Physical	Cool	35	35	100%	I
+65	Drill Peck	Flying	Physical	Cool	20	80	100%	I
+66	Submission	Fighting	Physical	Cool	25	80	80%	I
+67	Low Kick	Fighting	Physical	Tough	20	—*	100%*	I
+68	Counter	Fighting	Physical	Tough	20	—	100%	I
+69	Seismic Toss	Fighting	Physical	Tough	20	—	100%	I
+70	Strength	Normal	Physical	Tough	15	80	100%	I
+71	Absorb	Grass	Special	Clever	25*	20	100%	I
+72	Mega Drain	Grass	Special	Clever	15*	40	100%	I
+73	Leech Seed	Grass	Status	Clever	10	—	90%	I
+74	Growth	Normal	Status	Beautiful	20*	—	—	I
+75	Razor Leaf	Grass	Physical	Cool	25	55	95%	I
+76	Solar Beam	Grass	Special	Cool	10	120	100%	I
+77	Poison Powder	Poison	Status	Clever	35	—	75%	I
+78	Stun Spore	Grass	Status	Clever	30	—	75%	I
+79	Sleep Powder	Grass	Status	Clever	15	—	75%	I
+80	Petal Dance	Grass	Special	Beautiful	10*	120*	100%	I
+81	String Shot	Bug	Status	Clever	40	—	95%	I
+82	Dragon Rage	Dragon	Special	Cool	10	*	100%	I
+83	Fire Spin	Fire	Special	Beautiful	15	35*	85%*	I
+84	ThunderShock	Electric	Special	Cool	30	40	100%	I
+85	Thunderbolt	Electric	Special	Cool	15	90*	100%	I
+86	Thunder Wave	Electric	Status	Cool	20	—	100%	I
+87	Thunder	Electric	Special	Cool	10	110*	70%	I
+88	Rock Throw	Rock	Physical	Tough	15	50	90%*	I
+89	Earthquake	Ground	Physical	Tough	10	100	100%	I
+90	Fissure	Ground	Physical	Tough	5	—	—	I
+91	Dig	Ground	Physical	Tough	10	80*	100%	I
+92	Toxic	Poison	Status	Clever	10	—	90%*	I
+93	Confusion	Psychic	Special	Clever	25	50	100%	I
+94	Psychic	Psychic	Special	Clever	10	90	100%	I
+95	Hypnosis	Psychic	Status	Clever	20	—	60%*	I
+96	Meditate	Psychic	Status	Beautiful	40	—	—	I
+97	Agility	Psychic	Status	Cool	30	—	—	I
+98	Quick Attack	Normal	Physical	Cool	30	40	100%	I
+99	Rage	Normal	Physical	Tough	20	20	100%	I
+100	Teleport	Psychic	Status	Cool	20	—	—	I
+101	Night Shade	Ghost	Special	Clever	15	—	100%	I
+102	Mimic	Normal	Status	Cute	10	—	100%	I
+103	Screech	Normal	Status	Clever	40	—	85%	I
+104	Double Team	Normal	Status	Cool	15	—	—	I
+105	Recover	Normal	Status	Clever	10*	—	—	I
+106	Harden	Normal	Status	Tough	30	—	—	I
+107	Minimize	Normal	Status	Cute	10*	—	—	I
+108	Smokescreen	Normal	Status	Clever	20	—	100%	I
+109	Confuse Ray	Ghost	Status	Clever	10	—	100%	I
+110	Withdraw	Water	Status	Cute	40	—	—	I
+111	Defense Curl	Normal	Status	Cute	40	—	—	I
+112	Barrier	Psychic	Status	Cool	20*	—	—	I
+113	Light Screen	Psychic	Status	Beautiful	30	—	—	I
+114	Haze	Ice	Status	Beautiful	30	—	—	I
+115	Reflect	Psychic	Status	Clever	20	—	—	I
+116	Focus Energy	Normal	Status	Cool	30	—	—	I
+117	Bide	Normal	Physical	Tough	10	—	100%	I
+118	Metronome	Normal	Status	Cute	10	—	—	I
+119	Mirror Move	Flying	Status	Clever	20	—	—	I
+120	Self-Destruct	Normal	Physical	Beautiful	5	200*	100%	I
+121	Egg Bomb	Normal	Physical	Cute	10	100	75%	I
+122	Lick	Ghost	Physical	Cute	30	30*	100%	I
+123	Smog	Poison	Special	Tough	20	30*	70%	I
+124	Sludge	Poison	Special	Tough	20	65	100%	I
+125	Bone Club	Ground	Physical	Tough	20	65	85%	I
+126	Fire Blast	Fire	Special	Beautiful	5	110*	85%	I
+127	Waterfall	Water	Physical	Tough	15	80	100%	I
+128	Clamp	Water	Physical	Tough	10	35	85%*	I
+129	Swift	Normal	Special	Cool	20	60	—	I
+130	Skull Bash	Normal	Physical	Tough	10*	130*	100%	I
+131	Spike Cannon	Normal	Physical	Cool	15	20	100%	I
+132	Constrict	Normal	Physical	Tough	35	10	100%	I
+133	Amnesia	Psychic	Status	Cute	20	—	—	I
+134	Kinesis	Psychic	Status	Clever	15	—	80%	I
+135	Soft-Boiled	Normal	Status	Cute	10	—	—	I
+136	High Jump Kick	Fighting	Physical	Cool	10*	130*	90%	I
+137	Glare	Normal	Status	Tough	30	—	100%*	I
+138	Dream Eater	Psychic	Special	Clever	15	100	100%	I
+139	Poison Gas	Poison	Status	Clever	40	—	90%*	I
+140	Barrage	Normal	Physical	Cute	20	15	85%	I
+141	Leech Life	Bug	Physical	Clever	15	20	100%	I
+142	Lovely Kiss	Normal	Status	Beautiful	10	—	75%	I
+143	Sky Attack	Flying	Physical	Cool	5	140	90%	I
+144	Transform	Normal	Status	Clever	10	—	—	I
+145	Bubble	Water	Special	Cute	30	40*	100%	I
+146	Dizzy Punch	Normal	Physical	Cute	10	70	100%	I
+147	Spore	Grass	Status	Beautiful	15	—	100%	I
+148	Flash	Normal	Status	Beautiful	20	—	100%*	I
+149	Psywave	Psychic	Special	Clever	15	—	100%*	I
+150	Splash	Normal	Status	Cute	40	—	—	I
+151	Acid Armor	Poison	Status	Tough	20*	—	—	I
+152	Crabhammer	Water	Physical	Tough	10	100*	90%*	I
+153	Explosion	Normal	Physical	Beautiful	5	250*	100%	I
+154	Fury Swipes	Normal	Physical	Tough	15	18	80%	I
+155	Bonemerang	Ground	Physical	Tough	10	50	90%	I
+156	Rest	Psychic	Status	Cute	10	—	—	I
+157	Rock Slide	Rock	Physical	Tough	10	75	90%	I
+158	Hyper Fang	Normal	Physical	Cool	15	80	90%	I
+159	Sharpen	Normal	Status	Cute	30	—	—	I
+160	Conversion	Normal	Status	Beautiful	30	—	—	I
+161	Tri Attack	Normal	Special	Beautiful	10	80	100%	I
+162	Super Fang	Normal	Physical	Tough	10	—	90%	I
+163	Slash	Normal	Physical	Cool	20	70	100%	I
+164	Substitute	Normal	Status	Cute	10	—	—	I
+165	Struggle	Normal	Physical	Tough	1*	50	—*	I

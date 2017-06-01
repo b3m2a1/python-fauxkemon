@@ -1,0 +1,19 @@
+#PROPERTIES (height in m, weight in kg)#
+type:ghost,poison
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 60
+attack: 65
+defense: 60
+special_attack: 110
+special_defense: 110
+speed: 130
+#MOVELIST#
+0 Lick
+0 Confuse Ray
+0 Night Shade
+29 Hypnosis
+38 Dream Eater

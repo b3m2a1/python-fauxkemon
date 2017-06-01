@@ -1,0 +1,6 @@
+#TM41#
+buy: 2000
+sell: 500
+type: tm
+uses: Soft Boiled
+map: teach_Soft Boiled

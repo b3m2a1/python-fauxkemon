@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water,psychic
+height:
+weight:
+evolution:
+catch_rate: 190
+#BASESTATS#
+HP: 90
+attack: 65
+defense: 65
+special_attack: 15
+special_defense: 15
+speed: 40
+#MOVELIST#
+0 Confusion
+18 Disable
+22 Headbutt
+27 Growl
+33 Water Gun
+40 Amnesia
+48 Psychic

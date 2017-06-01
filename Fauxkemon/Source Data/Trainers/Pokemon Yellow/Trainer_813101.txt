@@ -1,0 +1,4 @@
+type:Trainer
+name:Trainer
+pokemon:('Eevee',5)
+money:100

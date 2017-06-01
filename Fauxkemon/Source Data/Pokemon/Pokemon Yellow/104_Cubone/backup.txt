@@ -1,0 +1,23 @@
+#PROPERTIES (height in m, weight in kg)#
+type:ground
+height:
+weight:
+evolution:
+catch_rate: 190
+#BASESTATS#
+HP: 50
+attack: 50
+defense: 95
+special_attack: 35
+special_defense: 35
+speed: 40
+#MOVELIST#
+ Bone Club
+0 Growl
+13 Tail Whip
+18 Headbutt
+25 Leer
+31 Focus Energy
+38 Thrash
+43 Bonemerang
+46 Rage

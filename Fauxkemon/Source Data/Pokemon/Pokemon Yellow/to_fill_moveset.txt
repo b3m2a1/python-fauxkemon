@@ -1,0 +1,13 @@
+Mew (Pokémon)/Generation I learnset
+From Bulbapedia, the community-driven Pokémon encyclopedia.
+← Mew 151
+By leveling up
+Generation I	
+Other generations:
+II - III - IV - V - VI
+ Level 	 Move 	 Type 	 Power 	 Accuracy 	 PP 
+Start	Pound	Normal	40	100%	35
+10	Transform	Normal	—	—%	10
+20	Mega Punch	Normal	80	85%	20
+30	Metronome	Normal	—	—%	10
+40	Psychic	Psychic	90	100%	10

@@ -1,0 +1,7 @@
+#ESCAPE ROPE#
+buy:  550
+sell:  275
+type: basic
+battle:  Teleport you to last visited Pokemon Center.
+uses: 1
+map:  Teleport you to last visited Pokemon Center.

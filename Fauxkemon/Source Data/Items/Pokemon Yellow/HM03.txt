@@ -1,0 +1,6 @@
+#HM 03#
+buy: -
+sell: -
+type: tm
+uses: Surf
+map: teach_Surf

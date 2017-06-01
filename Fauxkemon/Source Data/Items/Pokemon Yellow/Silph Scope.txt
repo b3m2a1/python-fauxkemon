@@ -1,0 +1,6 @@
+#SILPH SCOPE#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Lets you to see ghosts, in the Pokemon Tower.

@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:bug
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 65
+attack: 125
+defense: 100
+special_attack: 85
+special_defense: 85
+speed: 55
+#MOVELIST#
+0 ViceGrip
+21 Bind
+25 Seismic Toss
+30 Guillotine
+36 Focus Energy
+43 Harden
+49 Slash
+54 Swords Dance

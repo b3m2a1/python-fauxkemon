@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:ground
+height:
+weight:
+evolution:
+catch_rate: 50
+#BASESTATS#
+HP: 35
+attack: 80
+defense: 50
+special_attack: 120
+special_defense: 120
+speed: 70
+#MOVELIST#
+0 Scratch
+0 Growl
+0 Dig
+24 Sand-Attack
+35 Slash
+47 Earthquake

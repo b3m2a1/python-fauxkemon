@@ -1,0 +1,25 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 130
+attack: 65
+defense: 60
+special_attack: 65
+special_defense: 65
+speed: 110
+#MOVELIST#
+0 Tackle
+0 Sand-Attack
+0 Tail Whip
+0 Quick Attack
+10 Water Gun
+30 Bite
+36 Aurora Beam
+42 Acid Armor
+42 Haze
+48 Mist
+52 Hydro Pump

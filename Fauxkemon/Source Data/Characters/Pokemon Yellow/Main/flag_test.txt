@@ -1,0 +1,5 @@
+#FLAGS
+Welcome to Canada!
+#FLAG aint_canada
+This isn't Canada...
+#FLAGS

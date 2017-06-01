@@ -1,0 +1,4 @@
+charname:'rival'
+speed:1
+size:1
+a_button:(face,cell_message['text'])

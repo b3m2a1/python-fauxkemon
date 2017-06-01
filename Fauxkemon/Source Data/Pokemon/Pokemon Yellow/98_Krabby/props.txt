@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water
+height:
+weight:
+evolution:
+catch_rate: 225
+#BASESTATS#
+HP: 30
+attack: 105
+defense: 90
+special_attack: 50
+special_defense: 50
+speed: 25
+#MOVELIST#
+0 Bubble
+0 Leer
+20 ViceGrip
+25 Guillotine
+30 Stomp
+35 Crabhammer
+40 Harden

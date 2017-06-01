@@ -1,0 +1,8 @@
+#MOVE: #
+type: super
+mode: fang
+attack: tough
+effect: none_0
+hit_rate: 0.1
+priority: 1
+pp: physical

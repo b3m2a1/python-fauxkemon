@@ -1,0 +1,4 @@
+tiletype: pc
+spaces: 0
+buttons: a_button open_pc
+

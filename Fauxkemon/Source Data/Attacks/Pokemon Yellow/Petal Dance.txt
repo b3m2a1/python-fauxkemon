@@ -1,0 +1,12 @@
+#MOVE: Petal Dance#
+type: grass
+mode: special
+attack: 120
+effect: user[thrash]
+hit_rate: 1.0
+hits:1
+turns:3
+priority: 1
+pp: 10
+
+

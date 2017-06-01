@@ -1,0 +1,7 @@
+#BURN HEAL#
+buy:  250
+sell:  125
+type: basic
+battle:  Cures burn.
+uses: 1
+map:  Cures burn.

@@ -1,0 +1,6 @@
+#RARE CANDY#
+buy:  None
+sell:  2400
+type: key
+uses: -
+map:  Ups level of one Pokemon by 1.

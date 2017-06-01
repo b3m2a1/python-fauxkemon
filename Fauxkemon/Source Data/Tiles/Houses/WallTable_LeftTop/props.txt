@@ -1,0 +1,2 @@
+tiletype: table
+spaces: 0

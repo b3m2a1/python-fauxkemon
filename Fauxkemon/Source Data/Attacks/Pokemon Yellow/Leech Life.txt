@@ -1,0 +1,12 @@
+#MOVE: Leech Life#
+type: bug
+mode: physical
+attack: 20
+effect:user[absorb[.5]]
+hit_rate: 1.0
+hits:1
+turns:1
+priority: 1
+pp: 15
+
+

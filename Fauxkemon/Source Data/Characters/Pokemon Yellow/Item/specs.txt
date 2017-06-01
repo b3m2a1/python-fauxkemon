@@ -1,0 +1,4 @@
+charname : 'item'
+speed : 1
+size : 1
+a_button : (face,pokemon_encounter[25])

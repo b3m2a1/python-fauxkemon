@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water,ice
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 130
+attack: 85
+defense: 80
+special_attack: 60
+special_defense: 60
+speed: 95
+#MOVELIST#
+0 Water Gun
+0 Growl
+16 Sing
+20 Mist
+25 Body Slam
+31 Confuse Ray
+38 Ice Beam
+46 Hydro Pump

@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:rock,flying
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 80
+attack: 105
+defense: 65
+special_attack: 130
+special_defense: 130
+speed: 60
+#MOVELIST#
+0 Wing Attack
+0 Agility
+33 Supersonic
+38 Bite
+45 Take Down
+54 Hyper Beam

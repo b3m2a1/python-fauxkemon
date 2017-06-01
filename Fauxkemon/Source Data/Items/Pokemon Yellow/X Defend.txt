@@ -1,0 +1,7 @@
+#X DEFEND#
+buy:  550
+sell:  275
+type: basic
+battle:  Temporarily raise Defense in battle.
+uses: 1
+map:  Temporarily raise Defense in battle.

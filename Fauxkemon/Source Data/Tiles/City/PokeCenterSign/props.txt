@@ -1,0 +1,3 @@
+tiletype: sign
+spaces: 0
+buttons: a_button cell_message[PokeCenter]

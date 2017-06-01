@@ -1,0 +1,3 @@
+tiletype: sign
+spaces: 1
+buttons: a_button cell_message[PokeMart]

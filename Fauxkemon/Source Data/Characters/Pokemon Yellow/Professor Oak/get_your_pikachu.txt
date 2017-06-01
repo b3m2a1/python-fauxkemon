@@ -1,0 +1,17 @@
+#FLAGBLOCK
+
+Nice to see you {ob.trainer.name}.
+#PAUSE 1000
+---NEW MESSAGE---
+This is a fake version of Pokemon. 
+#PAUSE 1000
+---NEW MESSAGE---
+There's a Pikachu on that table over there for you too. 
+Go get it and have some fun or something.
+#DELAY 1000
+
+#FLAG got_pikachu
+
+Go have some fun you crazy kids
+
+#FLAGBLOCK

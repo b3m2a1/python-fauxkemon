@@ -1,0 +1,6 @@
+#OLD ROD#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Fish for low level pokemon.

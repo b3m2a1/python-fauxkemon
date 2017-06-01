@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water
+height:
+weight:
+evolution:
+catch_rate: 225
+#BASESTATS#
+HP: 30
+attack: 40
+defense: 70
+special_attack: 60
+special_defense: 60
+speed: 70
+#MOVELIST#
+0 Bubble
+19 SmokeScreen
+24 Leer
+30 Water Gun
+37 Agility
+45 Hydro Pump

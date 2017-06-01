@@ -1,0 +1,16 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water
+height:
+weight:
+evolution:
+catch_rate: 255
+#BASESTATS#
+HP: 20
+attack: 10
+defense: 55
+special_attack: 80
+special_defense: 80
+speed: 20
+#MOVELIST#
+0 Splash
+15 Tackle

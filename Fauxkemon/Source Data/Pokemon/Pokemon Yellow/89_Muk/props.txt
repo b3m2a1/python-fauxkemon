@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:poison
+height:
+weight:
+evolution:
+catch_rate: 75
+#BASESTATS#
+HP: 105
+attack: 105
+defense: 75
+special_attack: 50
+special_defense: 50
+speed: 65
+#MOVELIST#
+0 Pound
+0 Disable
+0 Poison Gas
+33 Minimize
+37 Sludge
+45 Harden
+53 Screech
+60 Acid Armor

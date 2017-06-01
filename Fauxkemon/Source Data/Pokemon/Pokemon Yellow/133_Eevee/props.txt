@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:normal
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 55
+attack: 55
+defense: 50
+special_attack: 55
+special_defense: 55
+speed: 65
+#MOVELIST#
+0 Tackle
+0 Sand-Attack
+0 Tail Whip
+16 Growl
+23 Quick Attack
+30 Bite
+36 Focus Energy
+42 Take Down

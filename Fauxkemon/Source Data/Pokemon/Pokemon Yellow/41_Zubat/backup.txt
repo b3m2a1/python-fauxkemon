@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:poison,flying
+height:
+weight:
+evolution:
+catch_rate: 255
+#BASESTATS#
+HP: 40
+attack: 45
+defense: 35
+special_attack: 55
+special_defense: 55
+speed: 40
+#MOVELIST#
+0 Leech Life
+10 Supersonic
+15 Bite
+21 Confuse Ray
+28 Wing Attack
+36 Haze

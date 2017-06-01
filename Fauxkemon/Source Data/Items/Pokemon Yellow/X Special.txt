@@ -1,0 +1,7 @@
+#X SPECIAL#
+buy:  350
+sell:  175
+type: basic
+battle:  Temporarily raise Special in battle.
+uses: 1
+map:  Temporarily raise Special in battle.

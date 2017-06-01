@@ -1,0 +1,11 @@
+#MOVE: Smokescreen#
+type: normal
+mode: status
+attack: —
+effect: accuracy-1
+hit_rate: 1.0
+hits:1
+turns:1
+priority: 1
+pp: 20
+

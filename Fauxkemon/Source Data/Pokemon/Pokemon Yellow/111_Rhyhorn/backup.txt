@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:ground,rock
+height:
+weight:
+evolution:
+catch_rate: 120
+#BASESTATS#
+HP: 80
+attack: 85
+defense: 95
+special_attack: 25
+special_defense: 25
+speed: 30
+#MOVELIST#
+0 Horn Attack
+30 Stomp
+35 Tail Whip
+40 Fury Attack
+45 Horn Drill
+50 Leer
+55 Take Down

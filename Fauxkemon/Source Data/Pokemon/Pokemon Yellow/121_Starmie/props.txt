@@ -1,0 +1,17 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water,psychic
+height:
+weight:
+evolution:
+catch_rate: 60
+#BASESTATS#
+HP: 60
+attack: 75
+defense: 85
+special_attack: 115
+special_defense: 115
+speed: 100
+#MOVELIST#
+0 Tackle
+0 Water Gun
+0 Harden

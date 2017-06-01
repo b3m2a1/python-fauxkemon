@@ -1,0 +1,23 @@
+#PROPERTIES (height in m, weight in kg)#
+type:grass
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 65
+attack: 55
+defense: 115
+special_attack: 60
+special_defense: 60
+speed: 100
+#MOVELIST#
+0 Constrict
+15 Bind
+27 Absorb
+29 Vine Whip
+32 PoisonPowder
+36 Stun Spore
+39 Sleep Powder
+45 Slam
+48 Growth

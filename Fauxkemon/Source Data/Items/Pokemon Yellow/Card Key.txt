@@ -1,0 +1,6 @@
+#CARD KEY#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Unlocks doors at the Silph Co. Building.

@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:normal
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 105
+attack: 95
+defense: 80
+special_attack: 90
+special_defense: 90
+speed: 40
+#MOVELIST#
+0 Comet Punch
+0 Rage
+26 Bite
+31 Tail Whip
+36 Mega Punch
+41 Leer
+46 Dizzy Punch

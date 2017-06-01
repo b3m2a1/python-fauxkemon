@@ -1,0 +1,6 @@
+#TM13#
+buy: Give girl Water
+sell: 500
+type: tm
+uses: Ice Beam
+map: teach_Ice Beam

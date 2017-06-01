@@ -1,0 +1,7 @@
+#X ACCURACY#
+buy:  950
+sell:  475
+type: basic
+battle:  Temporarily raise Accuracy in battle.
+uses: 1
+map:  Temporarily raise Accuracy in battle.

@@ -1,0 +1,2 @@
+tiletype: homewindow
+spaces: 0

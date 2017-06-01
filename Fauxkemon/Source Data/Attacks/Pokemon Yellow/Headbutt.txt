@@ -1,0 +1,11 @@
+#MOVE: Headbutt#
+type: normal
+mode: physical
+attack: 70
+effect:flinch@0.3
+hit_rate: 1.0
+hits:1
+turns:1
+priority: 1
+pp: 15
+

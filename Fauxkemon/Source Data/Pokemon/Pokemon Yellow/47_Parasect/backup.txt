@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:bug,grass
+height:
+weight:
+evolution:
+catch_rate: 75
+#BASESTATS#
+HP: 60
+attack: 95
+defense: 80
+special_attack: 30
+special_defense: 30
+speed: 80
+#MOVELIST#
+0 Scratch
+0 Stun Spore
+0 Leech Life
+30 Spore
+39 Slash
+48 Growth

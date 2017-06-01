@@ -1,0 +1,17 @@
+#PROPERTIES (height in m, weight in kg)#
+type:grass,psychic
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 95
+attack: 95
+defense: 85
+special_attack: 55
+special_defense: 55
+speed: 125
+#MOVELIST#
+0 Barrage
+0 Hypnosis
+28 Stomp

@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:electric,steel
+height:
+weight:
+evolution:
+catch_rate: 190
+#BASESTATS#
+HP: 25
+attack: 35
+defense: 70
+special_attack: 45
+special_defense: 45
+speed: 95
+#MOVELIST#
+0 Tackle
+21 SonicBoom
+25 ThunderShock
+29 Supersonic
+35 Thunder Wave
+41 Swift
+47 Screech

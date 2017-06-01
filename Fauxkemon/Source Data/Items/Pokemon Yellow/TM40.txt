@@ -1,0 +1,6 @@
+#TM40#
+buy: 2000
+sell: 500
+type: tm
+uses: Skull Bash
+map: teach_Skull Bash

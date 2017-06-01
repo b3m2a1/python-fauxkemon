@@ -1,0 +1,6 @@
+#PP UP#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Boosts max PP of a move by 20%

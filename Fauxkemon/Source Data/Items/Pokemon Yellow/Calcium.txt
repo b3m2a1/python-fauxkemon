@@ -1,0 +1,7 @@
+#CALCIUM#
+buy:  9800
+sell:  4900
+type: basic
+battle:  Boost Special stat
+uses: 1
+map:  Boost Special stat

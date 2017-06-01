@@ -1,0 +1,6 @@
+#HM 02#
+buy: -
+sell: -
+type: tm
+uses: Fly
+map: teach_Fly

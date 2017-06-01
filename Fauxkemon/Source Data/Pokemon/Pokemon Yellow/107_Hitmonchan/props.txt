@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:fighting
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 50
+attack: 105
+defense: 79
+special_attack: 76
+special_defense: 76
+speed: 35
+#MOVELIST#
+0 Comet Punch
+0 Agility
+33 Fire Punch
+38 Ice Punch
+43 ThunderPunch
+48 Mega Punch
+53 Counter

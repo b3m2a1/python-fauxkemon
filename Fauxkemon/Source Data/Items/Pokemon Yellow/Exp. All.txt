@@ -1,0 +1,6 @@
+#EXP. ALL#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Splits EXP received to between all Pokemon in party.

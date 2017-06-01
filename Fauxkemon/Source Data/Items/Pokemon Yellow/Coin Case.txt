@@ -1,0 +1,6 @@
+#COIN CASE#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Holds up to 9,999 coins in the Celadon Casino Coins.

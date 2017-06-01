@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:poison
+height:
+weight:
+evolution:
+catch_rate: 255
+#BASESTATS#
+HP: 35
+attack: 60
+defense: 44
+special_attack: 55
+special_defense: 55
+speed: 40
+#MOVELIST#
+0 Wrap
+0 Leer
+10 Poison Sting
+17 Bite
+24 Glare
+31 Screech
+38 Acid

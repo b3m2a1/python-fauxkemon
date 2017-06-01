@@ -1,0 +1,13 @@
+#PROPERTIES (height in m, weight in kg)#
+type:mr.,mime
+height:
+weight:
+evolution:
+#BASESTATS#
+HP: Mime
+attack: 40
+defense: 45
+special_attack: 65
+special_defense: 65
+speed: 90
+#MOVELIST#

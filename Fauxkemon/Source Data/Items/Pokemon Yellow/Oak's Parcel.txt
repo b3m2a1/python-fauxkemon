@@ -1,0 +1,6 @@
+#OAK'S PARCEL#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Give to Professor Oak in Pallet Town to get your Pokedex.

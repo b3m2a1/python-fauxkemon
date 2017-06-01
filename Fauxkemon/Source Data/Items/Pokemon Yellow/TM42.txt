@@ -1,0 +1,6 @@
+#TM42#
+buy: 2000
+sell: 500
+type: tm
+uses: Dream Eater
+map: teach_Dream Eater

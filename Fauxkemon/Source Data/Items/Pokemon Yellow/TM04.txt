@@ -1,0 +1,6 @@
+#TM04#
+buy: 2000
+sell: 500
+type: tm
+uses: Whirlwind
+map: teach_Whirlwind

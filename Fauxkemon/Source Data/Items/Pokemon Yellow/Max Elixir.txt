@@ -1,0 +1,6 @@
+#Max Elixir#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Restores all PP, to all moves.

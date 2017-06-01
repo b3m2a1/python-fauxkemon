@@ -1,0 +1,7 @@
+#MAX REPEL#
+buy:  700
+sell:  350
+type: basic
+battle:  Weaker Pokemon will not attack for 250 steps.
+uses: 1
+map:  Weaker Pokemon will not attack for 250 steps.

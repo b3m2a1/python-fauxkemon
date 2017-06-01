@@ -1,0 +1,11 @@
+#MOVE: String Shot#
+type: bug
+mode: status
+attack: —
+effect: speed-2
+hit_rate: 0.95
+hits:1
+turns:1
+priority: 1
+pp: 40
+

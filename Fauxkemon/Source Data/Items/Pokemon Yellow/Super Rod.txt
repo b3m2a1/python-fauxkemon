@@ -1,0 +1,6 @@
+#SUPER ROD#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Go fishing in the water,  for any Pokemon.

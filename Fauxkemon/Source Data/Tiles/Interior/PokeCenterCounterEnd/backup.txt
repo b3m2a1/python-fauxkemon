@@ -1,0 +1,2 @@
+tiletype: pokecentercounterend
+spaces: 0

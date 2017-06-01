@@ -1,0 +1,6 @@
+#HELIX FOSSIL#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Turn into Omanyte at the Cinnibar Island Lab.

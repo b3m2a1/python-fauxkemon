@@ -1,0 +1,4 @@
+tiletype: door
+spaces: 1
+events: enter 1.0 exit_map
+

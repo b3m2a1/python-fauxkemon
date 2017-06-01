@@ -1,0 +1,8 @@
+#POKE BALL#
+buy:  200
+sell:  100
+type: ball
+uses: 1
+battle:  catch-try
+#PROPERTIES#
+catch_rate: 0

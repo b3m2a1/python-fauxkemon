@@ -1,0 +1,16 @@
+#PROPERTIES (height in m, weight in kg)#
+type:bug,poison
+height:
+weight:
+evolution:
+catch_rate: 255
+#BASESTATS#
+HP: 40
+attack: 35
+defense: 30
+special_attack: 50
+special_defense: 50
+speed: 20
+#MOVELIST#
+0 Poison Sting
+0 String Shot

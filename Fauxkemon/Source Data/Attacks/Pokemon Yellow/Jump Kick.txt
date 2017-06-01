@@ -1,0 +1,12 @@
+#MOVE: Jump Kick#
+type: fighting
+mode: physical
+attack: 100
+effect: user[miss_damage[.5]]
+hit_rate: 0.95
+hits:1
+turns:1
+priority: 1
+pp: 10
+
+

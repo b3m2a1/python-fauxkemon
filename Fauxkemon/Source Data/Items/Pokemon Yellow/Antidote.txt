@@ -1,0 +1,7 @@
+#ANTIDOTE#
+buy:  100
+sell:  50
+type: basic
+battle:  Cures poison.
+uses: 1
+map:  Cures poison.

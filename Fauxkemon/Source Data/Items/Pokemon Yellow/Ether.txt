@@ -1,0 +1,6 @@
+#ETHER#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Restores 10PP (one moves)

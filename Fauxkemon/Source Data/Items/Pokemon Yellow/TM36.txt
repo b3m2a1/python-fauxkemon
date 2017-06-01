@@ -1,0 +1,6 @@
+#TM36#
+buy: 2000
+sell: 500
+type: tm
+uses: Self Destruct
+map: teach_Self Destruct

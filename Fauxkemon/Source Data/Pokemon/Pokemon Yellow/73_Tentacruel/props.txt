@@ -1,0 +1,23 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water,poison
+height:
+weight:
+evolution:
+catch_rate: 60
+#BASESTATS#
+HP: 80
+attack: 70
+defense: 65
+special_attack: 100
+special_defense: 100
+speed: 120
+#MOVELIST#
+0 Acid
+0 Supersonic
+0 Wrap
+18 Poison Sting
+22 Water Gun
+27 Constrict
+35 Barrier
+43 Screech
+50 Hydro Pump

@@ -1,0 +1,8 @@
+delete 'all'
+pkchu=add_file .8 .2 'Raichu' mode='frac' anchor='center'
+pkball=add_file .2, .8 'Pokeball' mode='frac' anchor='center'
+repeat 5
+move attr[pkball] .1 -.1 mode='frac'
+end_repeat
+call 'PuffAnimation.py' attr[pkchu]
+delete attr[pkchu]

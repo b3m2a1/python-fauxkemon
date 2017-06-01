@@ -1,0 +1,11 @@
+#MOVE: Body Slam#
+type: normal
+mode: physical
+attack: 85
+effect:paralyze@0.3
+hit_rate: 1.0
+hits:1
+turns:1
+priority: 1
+pp: 15
+

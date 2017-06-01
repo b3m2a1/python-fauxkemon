@@ -1,0 +1,6 @@
+#GOOD ROD#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  For capturing medium level Pokemon .

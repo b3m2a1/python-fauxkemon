@@ -1,0 +1,11 @@
+#MOVE: Kinesis#
+type: psychic
+mode: status
+attack: —
+effect:accuracy-1
+hit_rate: 0.8
+hits:1
+turns:1
+priority: 1
+pp: 15
+

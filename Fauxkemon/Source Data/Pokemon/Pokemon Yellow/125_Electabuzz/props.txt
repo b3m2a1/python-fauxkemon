@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:electric
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 65
+attack: 83
+defense: 57
+special_attack: 105
+special_defense: 105
+speed: 85
+#MOVELIST#
+0 Quick Attack
+0 Leer
+34 ThunderShock
+37 Screech
+42 ThunderPunch
+49 Light Screen
+54 Thunder

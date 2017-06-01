@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water
+height:
+weight:
+evolution:
+catch_rate: 190
+#BASESTATS#
+HP: 30
+attack: 65
+defense: 100
+special_attack: 40
+special_defense: 40
+speed: 45
+#MOVELIST#
+0 Tackle
+0 Withdraw
+18 Supersonic
+23 Clamp
+30 Aurora Beam
+39 Leer
+50 Ice Beam

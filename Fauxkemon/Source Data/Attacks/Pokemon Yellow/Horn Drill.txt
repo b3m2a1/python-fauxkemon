@@ -1,0 +1,11 @@
+#MOVE: Horn Drill#
+type: normal
+mode: physical
+attack: —
+effect: oh_ko
+hit_rate: 1
+hits:1
+turns:1
+priority: 1
+pp: 5
+

@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:poison
+height:
+weight:
+evolution:
+catch_rate: 120
+#BASESTATS#
+HP: 61
+attack: 72
+defense: 57
+special_attack: 65
+special_defense: 65
+speed: 55
+#MOVELIST#
+0 Leer
+0 Tackle
+0 Horn Attack
+12 Double Kick
+14 Poison Sting
+23 Focus Energy
+32 Fury Attack
+41 Horn Drill

@@ -1,0 +1,12 @@
+#MOVE: Fury Attack#
+type: normal
+mode: physical
+attack: 15
+effect: none@0
+hit_rate: 0.85
+hits:3-5
+turns:1
+priority: 1
+pp: 20
+
+

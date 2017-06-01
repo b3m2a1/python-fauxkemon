@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:ground
+height:
+weight:
+evolution:
+catch_rate: 255
+#BASESTATS#
+HP: 50
+attack: 75
+defense: 85
+special_attack: 40
+special_defense: 40
+speed: 30
+#MOVELIST#
+0 Scratch
+10 Sand-Attack
+17 Slash
+24 Poison Sting
+31 Swift
+38 Fury Swipes

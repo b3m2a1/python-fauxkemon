@@ -1,0 +1,138 @@
+#FORMAT NAME	TYPE	CAT	CHANCE EFF
+Acid	Poison	Special	10%	Lowers the target's Special Defense by 1 stage.
+Acid Spray	Poison	Special	100%	Lowers the target's Special Defense by 2 stages.
+Air Slash	Flying	Special	30%	Inflicts flinch on the target.
+Ancient Power	Rock	Special	10%	Raises all of the user's stats (Attack, Defense, Special Attack, Special Defense, and Speed) by 1 stage.
+Astonish	Ghost	Physical	30%	Inflicts flinch on the target.
+Aurora Beam	Ice	Special	10%	Lowers the target's Attack by 1 stage.
+Bite	Dark	Physical	30%	Inflicts flinch on the target.
+Blaze Kick	Fire	Physical	10%	Inflicts burn on the target.
+Blizzard	Ice	Special	10%	Inflicts freeze on the target.
+Blue Flare	Fire	Special	20%	Inflicts burn on the target.
+Body Slam	Normal	Physical	30%	Inflicts paralysis on the target.
+Bolt Strike	Electric	Physical	20%	Inflicts paralysis on the target.
+Bone Club	Ground	Physical	10%	Inflicts flinch on the target.
+Bounce	Flying	Physical	30%	Inflicts paralysis on the target.
+Bubble	Water	Special	10%	Lowers the target's Speed by 1 stage.
+Bubble Beam	Water	Special	10%	Lowers the target's Speed by 1 stage.
+Bug Buzz	Bug	Special	10%	Lowers the target's Special Defense by 1 stage.
+Bulldoze	Ground	Physical	100%	Lowers the target's Speed by 1 stage.
+Charge Beam	Electric	Special	70%	Raises the user's Special Attack by 1 stage.
+Chatter	Flying	Special	100%	Inflicts confusion on the target.
+Confusion	Psychic	Special	10%	Inflicts confusion on the target.
+Constrict	Normal	Physical	10%	Lowers the target's Speed by 1 stage.
+Cross Poison	Poison	Physical	10%	Inflicts poison on the target.
+Crunch	Dark	Physical	20%	Lowers the target's Defense by 1 stage.
+Crush Claw	Normal	Physical	50%	Lowers the target's Defense by 1 stage.
+Dark Pulse	Dark	Special	20%	Inflicts flinch on the target.
+Diamond Storm	Rock	Physical	50%	Raises the user's Defense by 1 stage.
+Discharge	Electric	Special	30%	Inflicts paralysis on the target.
+Dizzy Punch	Normal	Physical	20%	Inflicts confusion on the target.
+Dragon Rush	Dragon	Physical	20%	Inflicts flinch on the target.
+Dragon Breath	Dragon	Special	30%	Inflicts paralysis on the target.
+Dynamic Punch	Fighting	Physical	100%	Inflicts confusion on the target.
+Earth Power	Ground	Special	10%	Lowers the target's Special Defense by 1 stage.
+Electroweb	Electric	Special	100%	Lowers the target's Speed by 1 stage.
+Ember	Fire	Special	10%	Inflicts burn on the target.
+Energy Ball	Grass	Special	10%	Lowers the target's Special Defense by 1 stage.
+Extrasensory	Psychic	Special	10%	Inflicts flinch on the target.
+Fake Out	Normal	Physical	100%	Inflicts flinch on the target.
+Fiery Dance	Fire	Special	50%	Raises the user's Special Attack by 1 stage.
+Fire Blast	Fire	Special	10%	Inflicts burn on the target.
+Fire Fang	Fire	Physical	20%	Inflicts flinch or burn on the target.
+Fire Punch	Fire	Physical	10%	Inflicts burn on the target.
+Flame Charge	Fire	Physical	100%	Raises the user's Speed by 1 stage.
+Flame Wheel	Fire	Physical	10%	Inflicts burn on the target.
+Flamethrower	Fire	Special	10%	Inflicts burn on the target.
+Flare Blitz	Fire	Physical	10%	Inflicts burn on the target.
+Flash Cannon	Steel	Special	10%	Lowers the target's Special Defense by 1 stage.
+Focus Blast	Fighting	Special	10%	Lowers the target's Special Defense by 1 stage.
+Force Palm	Fighting	Physical	30%	Inflicts paralysis on the target.
+Freeze-Dry	Ice	Special	10%	Inflicts freeze on the target.
+Freeze Shock	Ice	Physical	30%	Inflicts paralysis on the target.
+Glaciate	Ice	Special	100%	Lowers the target's Speed by 1 stage.
+Gunk Shot	Poison	Physical	30%	Inflicts poison on the target.
+Headbutt	Normal	Physical	30%	Inflicts flinch on the target.
+Heart Stamp	Psychic	Physical	30%	Inflicts flinch on the target.
+Heat Wave	Fire	Special	10%	Inflicts burn on the target.
+Hurricane	Flying	Special	30%	Inflicts confusion on the target.
+Hyper Fang	Normal	Physical	10%	Inflicts flinch on the target.
+Ice Beam	Ice	Special	10%	Inflicts freeze on the target.
+Ice Burn	Ice	Special	30%	Inflicts burn on the target.
+Ice Fang	Ice	Physical	20%	Inflicts flinch or freeze on the target.
+Ice Punch	Ice	Physical	10%	Inflicts freeze on the target.
+Icicle Crash	Ice	Physical	30%	Inflicts flinch on the target.
+Icy Wind	Ice	Special	100%	Lowers the target's Speed by 1 stage.
+Inferno	Fire	Special	100%	Inflicts burn on the target.
+Iron Head	Steel	Physical	30%	Inflicts flinch on the target.
+Iron Tail	Steel	Physical	10%	Lowers the target's Defense by 1 stage.
+Lava Plume	Fire	Special	30%	Inflicts burn on the target.
+Leaf Tornado	Grass	Special	30%	Lowers the target's accuracy by 1 stage.
+Lick	Ghost	Physical	30%	Inflicts paralysis on the target.
+Low Sweep	Fighting	Physical	100%	Lowers the target's Speed by 1 stage.
+Luster Purge	Psychic	Special	50%	Lowers the target's Special Defense by 1 stage.
+Metal Claw	Steel	Physical	10%	Raises the user's Attack by 1 stage.
+Meteor Mash	Steel	Physical	20%	Raises the user's Attack by 1 stage.
+Mirror Shot	Steel	Special	30%	Lowers the target's accuracy by 1 stage.
+Mist Ball	Psychic	Special	50%	Lowers the target's Special Attack by 1 stage.
+Moonblast	Fairy	Special	30%	Lowers the target's Special Attack by 1 stage.
+Mud Bomb	Ground	Special	30%	Lowers the target's accuracy by 1 stage.
+Mud Shot	Ground	Special	100%	Lowers the target's Speed by 1 stage.
+Mud-Slap	Ground	Special	100%	Lowers the target's accuracy by 1 stage.
+Muddy Water	Water	Special	30%	Lowers the target's accuracy by 1 stage.
+Mystical Fire	Fire	Special	100%	Lowers the target's Special Attack by 1 stage.
+Needle Arm	Grass	Physical	30%	Inflicts flinch on the target.
+Night Daze	Dark	Special	40%	Lowers the target's accuracy by 1 stage.
+Nuzzle	Electric	Physical	100%	Inflicts paralysis on the target.
+Octazooka	Water	Special	50%	Lowers the target's accuracy by 1 stage.
+Ominous Wind	Ghost	Special	10%	Raises all of the user's stats (Attack, Defense, Special Attack, Special Defense, and Speed) by 1 stage.
+Play Rough	Fairy	Physical	10%	Lowers the target's Attack by 1 stage.
+Poison Fang	Poison	Physical	50%	Inflicts bad poison on the target.
+Poison Jab	Poison	Physical	30%	Inflicts poison on the target.
+Poison Sting	Poison	Physical	30%	Inflicts poison on the target.
+Poison Tail	Poison	Physical	10%	Inflicts poison on the target.
+Powder Snow	Ice	Special	10%	Inflicts freeze on the target.
+Power-Up Punch	Fighting	Physical	100%	Raises the user's Attack by 1 stage.
+Psybeam	Psychic	Special	10%	Inflicts confusion on the target.
+Psychic	Psychic	Special	10%	Lowers the target's Special Defense by 1 stage.
+Razor Shell	Water	Physical	50%	Lowers the target's Defense by 1 stage.
+Relic Song	Normal	Special	10%	Inflicts sleep on the target.
+Rock Climb	Normal	Physical	20%	Inflicts confusion on the target.
+Rock Slide	Rock	Physical	30%	Inflicts flinch on the target.
+Rock Smash	Fighting	Physical	50%	Lowers the target's Defense by 1 stage.
+Rock Tomb	Rock	Physical	100%	Lowers the target's Speed by 1 stage.
+Rolling Kick	Fighting	Physical	30%	Inflicts flinch on the target.
+Sacred Fire	Fire	Physical	50%	Inflicts burn on the target.
+Scald	Water	Special	30%	Inflicts burn on the target.
+Searing Shot	Fire	Special	30%	Inflicts burn on the target.
+Secret Power	Normal	Physical	30%	Special: See Secret Power.
+Seed Flare	Grass	Special	40%	Lowers the target's Special Defense by 2 stages.
+Shadow Ball	Ghost	Special	20%	Lowers the target's Special Defense by 1 stage.
+Signal Beam	Bug	Special	10%	Inflicts confusion on the target.
+Silver Wind	Bug	Special	10%	Raises all of the user's stats (Attack, Defense, Special Attack, Special Defense, and Speed) by 1 stage.
+Sky Attack	Flying	Physical	30%	Inflicts flinch on the target.
+Sludge	Poison	Special	30%	Inflicts poison on the target.
+Sludge Bomb	Poison	Special	30%	Inflicts poison on the target.
+Sludge Wave	Poison	Special	10%	Inflicts poison on the target.
+Smog	Poison	Special	40%	Inflicts poison on the target.
+Snarl	Dark	Special	100%	Lowers the target's Special Attack by 1 stage.
+Snore	Normal	Special	30%	Inflicts flinch on the target.
+Spark	Electric	Physical	30%	Inflicts paralysis on the target.
+Steam Eruption	Water	Special	30%	Inflicts burn on the target.
+Steamroller	Bug	Physical	30%	Inflicts flinch on the target.
+Steel Wing	Steel	Physical	10%	Raises the user's Defense by 1 stage.
+Stomp	Normal	Physical	30%	Inflicts flinch on the target.
+Struggle Bug	Bug	Special	100%	Lowers the target's Special Attack by 1 stage.
+Thunder	Electric	Special	30%	Inflicts paralysis on the target.
+Thunder Fang	Electric	Physical	20%	Inflicts flinch or paralysis on the target.
+Thunder Punch	Electric	Physical	10%	Inflicts paralysis on the target.
+Thunder Shock	Electric	Special	10%	Inflicts paralysis on the target.
+Thunderbolt	Electric	Special	10%	Inflicts paralysis on the target.
+Tri Attack	Normal	Special	20%	Inflicts burn, freeze, or paralysis on the target.
+Twineedle	Bug	Physical	20%	Inflicts poison on the target.
+Twister	Dragon	Special	20%	Inflicts flinch on the target.
+Volt Tackle	Electric	Physical	10%	Inflicts paralysis on the target.
+Water Pulse	Water	Special	20%	Inflicts confusion on the target.
+Waterfall	Water	Physical	20%	Inflicts flinch on the target.
+Zap Cannon	Electric	Special	100%	Inflicts paralysis on the target.
+Zen Headbutt	Psychic	Physical	20%	Inflicts flinch on the target.

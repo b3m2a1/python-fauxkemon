@@ -1,0 +1,29 @@
+POKE BALL      
+Cost: $200  
+Sell: $100   
+Buy at following shops: Viridian City, Pewter City, Cerulean City, and Vermillion City. 
+Affect: Used to capture wild Pokemon. (x1 Catch Rate)
+
+GREAT BALL     
+Cost: $600  
+Sell: $300  
+Buy at following shops: Fuchsia City, Cinnabar Island, and Indigo Plateau.  
+Affect: Can be used to capture wild Pokemon. (x1.5 Catch Rate)
+
+ULTRA BALL     
+Cost: 1200 
+Sell: 600
+Buy at following shops: Lavender Town, Celadon City 2F, Saffron City, Fuchsia City, Cinnabar Island, and Indigo Plateau 
+Affect: Can be used to capture wild Pokemon. (x2 Catch Rate)
+
+Master Ball    
+Cost: ----- 
+Sell: ----- 
+Where: You get this from the Silph Company President. 
+Affect: Never fails to capture a wild Pokemon.(100% catch rate) 
+
+SAFARI BALL    
+Cost: ----- 
+Sell: ----- 
+Where: Given to you in the Safari Zone Game, just before you start. You lose them all when the game is over.
+Affect: Used to catch wild Pokemon in the Safari Zone. (x1.5 Catch Rate)

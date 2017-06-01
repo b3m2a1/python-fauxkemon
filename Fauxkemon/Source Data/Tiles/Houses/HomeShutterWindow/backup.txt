@@ -1,0 +1,2 @@
+tiletype: homeshutterwindow
+spaces: 1

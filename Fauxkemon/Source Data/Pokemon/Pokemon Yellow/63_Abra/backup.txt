@@ -1,0 +1,15 @@
+#PROPERTIES (height in m, weight in kg)#
+type:psychic
+height:
+weight:
+evolution:
+catch_rate: 200
+#BASESTATS#
+HP: 25
+attack: 20
+defense: 15
+special_attack: 90
+special_defense: 90
+speed: 105
+#MOVELIST#
+0 Teleport

@@ -1,0 +1,17 @@
+#PROPERTIES (height in m, weight in kg)#
+type:bug
+height:
+weight:
+evolution:
+catch_rate: 255
+#BASESTATS#
+HP: 45
+attack: 30
+defense: 35
+special_attack: 45
+special_defense: 45
+speed: 20
+#MOVELIST#
+0 Tackle
+0 String Shot
+

@@ -1,0 +1,21 @@
+#PROPERTIES (height in m, weight in kg)#
+type:normal
+height:
+weight:
+evolution:
+catch_rate: 255
+#BASESTATS#
+HP: 40
+attack: 45
+defense: 35
+special_attack: 90
+special_defense: 90
+speed: 40
+#MOVELIST#
+0 Scratch
+0 Growl
+12 Bite
+17 Pay Day
+24 Screech
+33 Fury Swipes
+44 Slash

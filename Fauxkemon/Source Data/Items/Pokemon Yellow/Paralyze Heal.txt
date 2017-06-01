@@ -1,0 +1,7 @@
+#PARALYZE HEAL#
+buy:  200
+sell:  100
+type: basic
+battle:  Cures Paralyze.
+uses: 1
+map:  Cures Paralyze.

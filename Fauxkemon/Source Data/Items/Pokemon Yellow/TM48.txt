@@ -1,0 +1,6 @@
+#TM48#
+buy: 2000
+sell: 500
+type: tm
+uses: Rock Slide
+map: teach_Rock Slide

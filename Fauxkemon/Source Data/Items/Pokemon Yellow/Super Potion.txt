@@ -1,0 +1,7 @@
+#SUPER POTION#
+buy:  700
+sell:  350
+type: basic
+battle:  Recovers 70 HP.
+uses: 1
+map:  Recovers 70 HP.

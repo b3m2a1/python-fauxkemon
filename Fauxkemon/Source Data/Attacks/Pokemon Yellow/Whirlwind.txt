@@ -1,0 +1,11 @@
+#MOVE: Whirlwind#
+type: normal
+mode: status
+attack: —
+effect: switch
+hit_rate: 1
+hits:1
+turns:1
+priority: 1
+pp: 20
+

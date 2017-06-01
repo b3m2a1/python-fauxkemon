@@ -1,0 +1,20 @@
+#PROPERTIES (height in m, weight in kg)#
+type:rock,water
+height:
+weight:
+evolution:
+catch_rate: 45
+#BASESTATS#
+HP: 30
+attack: 80
+defense: 90
+special_attack: 55
+special_defense: 55
+speed: 45
+#MOVELIST#
+0 Scratch
+0 Harden
+34 Absorb
+39 Slash
+44 Leer
+49 Hydro Pump

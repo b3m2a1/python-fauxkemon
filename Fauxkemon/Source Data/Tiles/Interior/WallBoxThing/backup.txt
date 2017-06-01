@@ -1,0 +1,2 @@
+tiletype: wallbase_front
+spaces: 0

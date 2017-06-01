@@ -1,0 +1,2 @@
+tiletype: lava
+spaces: 1

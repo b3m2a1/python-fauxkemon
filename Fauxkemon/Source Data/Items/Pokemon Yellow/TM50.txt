@@ -1,0 +1,6 @@
+#TM50#
+buy: 2000
+sell: 500
+type: tm
+uses: Substitute
+map: teach_Substitute

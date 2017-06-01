@@ -1,0 +1,11 @@
+#MOVE: Smog#
+type: poison
+mode: special
+attack: 30
+effect: poison@0.4
+hit_rate: 0.7
+hits:1
+turns:1
+priority: 1
+pp: 20
+

@@ -1,0 +1,6 @@
+#TM37#
+buy: 2000
+sell: 500
+type: tm
+uses: Egg Bomb
+map: teach_Egg Bomb

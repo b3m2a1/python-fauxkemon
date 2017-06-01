@@ -1,0 +1,2 @@
+tiletype: houseroof_rb
+spaces: 1

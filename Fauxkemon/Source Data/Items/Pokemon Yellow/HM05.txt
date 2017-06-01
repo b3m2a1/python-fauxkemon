@@ -1,0 +1,6 @@
+#HM 05#
+buy: -
+sell: -
+type: tm
+uses: Flash
+map: teach_Flash

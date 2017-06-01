@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:poison
+height:
+weight:
+evolution:
+catch_rate: 235
+#BASESTATS#
+HP: 55
+attack: 47
+defense: 52
+special_attack: 41
+special_defense: 41
+speed: 40
+#MOVELIST#
+0 Growl
+0 Tackle
+8 Scratch
+12 Double Kick
+14 Poison Sting
+21 Tail Whip
+29 Bite
+36 Fury Swipes

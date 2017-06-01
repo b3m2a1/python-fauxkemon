@@ -1,0 +1,6 @@
+#TM12#
+buy: 2000
+sell: 500
+type: tm
+uses: Water Gun
+map: teach_Water Gun

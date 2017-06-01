@@ -1,0 +1,6 @@
+#MOON STONE#
+buy:  None
+sell:  None
+type: key
+uses: -
+map:  Evolve Nidorina, Nidorino, Clefairy, andJigglypuff.

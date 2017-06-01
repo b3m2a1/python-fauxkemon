@@ -1,0 +1,23 @@
+#PROPERTIES (height in m, weight in kg)#
+type:normal
+height:
+weight:
+evolution:
+catch_rate: 30
+#BASESTATS#
+HP: 250
+attack: 5
+defense: 5
+special_attack: 50
+special_defense: 50
+speed: 105
+#MOVELIST#
+0 Pound
+0 Tail Whip
+13 DoubleSlap
+24 Sing
+30 Growl
+38 Minimize
+44 Defense Curl
+48 Light Screen
+54 Double-Edge

@@ -1,0 +1,12 @@
+#MOVE: Surf#
+type: water
+mode: special
+attack: 90
+effect: none@0
+map: surf
+hit_rate: 1.0
+hits:1
+turns:1
+priority: 1
+pp: 15
+

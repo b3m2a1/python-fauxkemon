@@ -1,0 +1,7 @@
+#AWAKENING#
+buy:  250
+sell:  125
+type: basic
+battle:  Cures sleep.
+uses: 1
+map:  Cures sleep.

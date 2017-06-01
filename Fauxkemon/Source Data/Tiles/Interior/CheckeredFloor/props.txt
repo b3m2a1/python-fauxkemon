@@ -1,0 +1,2 @@
+tiletype: floor
+spaces: 1

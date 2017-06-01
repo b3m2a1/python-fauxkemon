@@ -1,0 +1,7 @@
+#DIRECT HIT#
+buy:  650
+sell:  375
+type: basic
+battle:  Raises one Pokemon's odds of getting a critical hit.(1 Battle)
+uses: 1
+map:  Raises one Pokemon's odds of getting a critical hit.(1 Battle)

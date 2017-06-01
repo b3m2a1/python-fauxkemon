@@ -1,0 +1,7 @@
+#THUNDER STONE#
+buy:  2100
+sell:  1050
+type: basic
+battle:  Evolves Eevee and Pikachu.
+uses: 1
+map:  Evolves Eevee and Pikachu.

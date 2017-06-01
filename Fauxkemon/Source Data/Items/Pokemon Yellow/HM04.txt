@@ -1,0 +1,6 @@
+#HM 04#
+buy: -
+sell: -
+type: tm
+uses: Strength
+map: teach_Strength

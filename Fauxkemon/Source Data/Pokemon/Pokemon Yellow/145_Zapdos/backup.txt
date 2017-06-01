@@ -1,0 +1,19 @@
+#PROPERTIES (height in m, weight in kg)#
+type:electric,flying
+height:
+weight:
+evolution:
+catch_rate: 3
+#BASESTATS#
+HP: 90
+attack: 90
+defense: 85
+special_attack: 100
+special_defense: 100
+speed: 125
+#MOVELIST#
+0 ThunderShock
+0 Drill Peck
+51 Thunder
+55 Agility
+60 Light Screen

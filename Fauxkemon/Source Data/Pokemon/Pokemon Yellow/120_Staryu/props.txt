@@ -1,0 +1,22 @@
+#PROPERTIES (height in m, weight in kg)#
+type:water
+height:
+weight:
+evolution:
+catch_rate: 225
+#BASESTATS#
+HP: 30
+attack: 45
+defense: 55
+special_attack: 85
+special_defense: 85
+speed: 70
+#MOVELIST#
+0 Tackle
+17 Water Gun
+22 Harden
+27 Recover
+32 Swift
+37 Minimize
+42 Light Screen
+47 Hydro Pump

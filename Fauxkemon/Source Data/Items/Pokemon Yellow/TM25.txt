@@ -1,0 +1,6 @@
+#TM25#
+buy: 2000
+sell: 500
+type: tm
+uses: Thunder
+map: teach_Thunder
