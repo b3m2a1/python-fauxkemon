@@ -24,7 +24,7 @@ The documentation process is ongoing, as the code was written with myself as its
 
 The Fauxkemon.py file in Fauxkemon/app can be run from IDLE or the command-line, assuming one has PIL installed.
 
-![Map editor](docs/screen_caps/Map Editor.png)
+![Map editor](docs/screen_caps/Map_Editor.png)
 
 Alternatively, if one downloads the python-general repository and places this folder in the project directory, any virtual environment configured in the config folder of that repository can be easily used to run the code by simply running that repository's init.py file and selecting it from the menu provided.
 
